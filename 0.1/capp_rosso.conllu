@@ -1,0 +1,667 @@
+# newdoc
+ 
+# sent_id = 1
+# text_tr_it = Tanto tempo fa c'era un bosco in cui vi erano due case
+# text_gloss = tempo-fa molto100.3 bosco-20001 casa-b589.2_b due376.3 SW-posizione-casa
+1	tempo-fa molto100.3	_	ADV	B	_	2	advmod	_	_
+2	bosco-20001	_	NOUN	S	_	3	nmod	_	_
+3	casa-b589.2-b	_	NOUN	S	_	0	root	_	_
+4	due376.3	_	NUM	N	_	3	nummod	_	_
+5	SW-posizione-casa	_	ADV	B	_	3	advmod	_	_
+
+ 
+# sent_id = 2
+# text_tr_it = In una casa abitavano Cappuccetto Rosso e sua mamma, nell’altra abitava sua nonna.
+# text_gloss = SW-lì/là abitare residenza635.1-b cappuccio664.2 rosso202.1 mamma madre651.3 SW-lì/là SW-lì/là abitare residenza635.1-b nonno366.3 suo243.2 SW-lì/là
+1	SW-lì/là	_	ADV	B	_	2	advmod	_	_
+2	abitare residenza635.1-b	_	VERB	V	_	0	root	_	_
+3	cappuccio664.2	_	PROPN	SP	_	2	nsubj	_	_
+4	rosso202.1	_	ADJ	A	_	3	flat:name	_	_
+5	mamma madre651.3	_	NOUN	S	_	3	conj	_	_
+6	SW-lì/là	_	ADV	B	_	1	parataxis	_	_
+7	SW-lì/là	_	ADV	B	_	8	advmod	_	_
+8	abitare residenza635.1-b	_	VERB	V	_	2	ccomp	_	_
+9	nonno366.3	_	NOUN	S	_	8	nsubj	_	_
+10	suo243.2	_	DET	D	_	9	det:poss	_	_
+11	SW-lì/là	_	ADV	B	_	7	parataxis	_	SpaceAfter=No
+
+ 
+# sent_id = 3
+# text_tr_it = Perché Cappuccetto Rosso si chiama così?
+# text_gloss = cappuccio664.2 rosso202.1 nome titolo173.1_c perché per-quale-motivo730.3
+1	cappuccio664.2	_	PROPN	SP	_	3	nsubj	_	_
+2	rosso202.1	_	ADJ	A	_	1	flat:name	_	_
+3	nome titolo173.1_c	_	VERB	V	_	0	root	_	_
+4	perché per-quale-motivo730.3	_	ADV	B	_	3	mark	_	_
+
+
+ 
+# sent_id = 4
+# text_tr_it = Sua nonna ha cucito un vestito cerniera e cappuccio di colore rosso e glielo ha relegato.
+# text_gloss = egli esso lei loro lui(non-presenti) lui quello321.1 nonno366.3 egli esso lei loro lui(non-presenti) lui quello321.1 vestito vestirsi291.2 cucire570.1 cerniera-STS cappuccio664.2 colore150.1-b rosso202.1 regalare268.2 nonno366.3 suo243.2 egli esso lei loro lui(non-presenti) lui quello321.1
+1	egli esso lei loro lui(non-presenti) lui quello321.1	_	DET	D	_	2	det	_	_
+2	nonno366.3	_	NOUN	S	_	5	nsubj	_	_
+3	egli esso lei loro lui(non-presenti) lui quello321.1	_	DET	D	_	1	det	_	_
+4	vestito vestirsi291.2	_	NOUN	S	_	5	obj	_	_
+5	cucire570.1	_	VERB	Vf	_	0	root	_	_
+6	cerniera-STS	_	NOUN	S	_	4	nmod	_	_
+7	cappuccio664.2	_	NOUN	S	_	4	nmod	_	_
+8	colore150.1-b	_	NOUN	S	_	4	nmod	_	_
+9	rosso202.1	_	ADJ	A	_	8	amod	_	_
+10	regalare268.2	_	VERB	Vf	_	5	conj	_	_
+11	nonno366.3	_	NOUN	S	_	2	nmod	_	_
+12	suo243.2	_	ADJ	A	_	2	det:poss	_	_
+13	egli esso lei loro lui(non-presenti) lui quello321.1	_	PRON	P	_	10	obl	_	SpaceAfter=No
+
+ 
+# sent_id = 5
+# text_tr_it = Dopo, un giorno, la nonna è malata e ha febbre e raffreddore.
+# text_gloss = dopo240.1-b un-giorno-20002 nonno366.3 febbre(d)malato823.3 febbre81.3 raffreddore-STS
+1	dopo240.1-b	_	ADV	B	_	2	advmod	_	_
+2	un-giorno-20002	_	ADV	B	_	3	advmod	_	_
+3	nonno366.3	_	NOUN	S	_	4	nsubj	_	_
+4	febbre(d)malato823.3	_	VERB	V	_	0	root	_	_
+5	febbre81.3	_	NOUN	S	_	4	obj	_	_
+6	raffreddore-STS	_	NOUN	S	_	5	conj	_	_
+SpaceAfter=No
+
+ 
+# sent_id = 6
+# text_tr_it = La mamma è preoccupata, racimola del cibo e lo mette in un cestino.
+# text_gloss = mamma madre651.3 preoccupato188.2 cena mangiare pasto pranzo581.3 raccogliere-STS+CL(F) fare-fiocco-STS SW-afferr-cestino	 
+1	mamma madre651.3	_	NOUN	S	_	4	nsubj	_	_
+2	preoccupato188.2	_	ADJ	A	_	1	amod	_	_
+3	cena mangiare pasto pranzo581.3	_	NOUN	S	_	4	obj	_	_
+4	raccogliere-STS+CL(F)	_	VERB	V	_	0	root	_	
+5	fare-fiocco-STS	_	VERB	V	_	4	advcl	_	
+6	SW-afferr-cestino	_	PRON	P	_	5	obj	_	
+SpaceAfter=No
+
+ 
+# sent_id = 7
+# text_tr_it = Chiama Cappuccetto Rosso che si avvicina.
+# text_gloss = chiamare140.2 cappuccio664.2 rosso202.1 venire-STS
+1	chiamare140.2	_	VERB	V	_	0	root	_	_
+2	cappuccio664.2	_	PROPN	S	_	1	obj	_	_
+3	rosso202.1	_	ADJ	A	_	2	flat:name	_	_
+4	venire-STS	_	VERB	V	_	1	acl:recl	_	SpaceAfter=No
+
+ 
+# sent_id = 8
+# text_tr_it = " Per favore puoi dare questo cestino alla nonna perché ha la febbre, per favore?"
+# text_gloss = SW-questo-1(cestino) dare91.1+CL(5)) per-favore90.1 perché per-quale-motivo730.3 nonno366.3 febbre(d)malato823.3 per-favore90.1
+1	SW-questo-1(cestino)	_	PRON	P	RS=<1	2	obj	_	_
+2	dare91.1+CL(5))	_	VERB	V	_	0	root	_	_
+3	per-favore90.1	_	ADV	B	_	2	advmod	_	_
+4	perché per-quale-motivo730.3	_	SCONJ	C	_	6	mark	_	_
+5	nonno366.3	_	NOUN	S	_	6	nsubj	_	_
+6	febbre(d)malato823.3	_	ADJ	A	_	2	advcl	_	_
+7	per-favore90.1	_	ADV	B	RS=>2	3	parataxis:?	_	SpaceAfter=No
+
+ 
+# sent_id = 9
+# text_tr_it = "Si, posso."
+# text_gloss = si402.2 si può560.3-b
+1	si402.2	_	ADV	B	RS=2<	1	advmod	_	_
+2	si può560.3-b	_	VERB	V	RS=>1	0	root	_	SpaceAfter=No
+
+
+ 
+# sent_id = 10
+# text_tr_it = "Stai attenta, là nel bosco c'è un lupo cattivo, con il pelo nero e brutto."
+# text_gloss = attento attenzione86.3 bosco-20001 avere c'è ci-sono104.3 lupo523.1 cattivo193.2 vestito vestirsi291.2 nero358.1 brutto474.1
+1	attento attenzione86.3	_	INTJ	I	RS=1<	4	discourse	_	_
+2	bosco-20001	_	NOUN	S	_	4	nmod	_	_
+3	SW-lì/là	_	ADV	B	_	2	obl	_	_
+4	avere c'è ci-sono104.3	_	VERB	V	_	0	root	_	_
+5	lupo523.1	_	NOUN	S	_	4	obj	_	_
+6	cattivo193.2	_	ADJ	A	_	5	amod	_	_
+7	vestito vestirsi291.2	_	NOUN	S	_	5	acl	_	_
+8	nero358.1	_	ADJ	A	_	7	obl	_	_
+9	brutto474.1	_	ADJ	A	RS=>2	5	conj	_	SpaceAfter=No
+
+ 
+# sent_id = 11
+# text_tr_it = "Non raccogliere fiori."
+# text_gloss = fiore giardino profumo558.3 raccogliere-STS+CL(F) no231.2 
+
+1	fiore giardino profumo558.3	_	NOUN	S	RS=1<	2	obj	_	_
+2	raccogliere-STS+CL(F)	_	VERB	V	_	0	root	_	_
+3	no231.2	_	ADV	BN	RS=>2	2	advmod	_	SpaceAfter=No
+
+ 
+# sent_id = 12
+# text_tr_it = Cappuccetto Rosso cammina per il bosco.
+# text_gloss = bosco-20001 camminare-STS+CL(V)
+1	bosco-20001	_	NOUN	S	_	1	nmod	_	_
+2	camminare-STS+CL(V)	_	VERB	V	RS=<	0	root	_	SpaceAfter=No
+
+
+ 
+# sent_id = 13
+# text_tr_it = Raccoglie dei fiori e cammina.
+# text_gloss = fiore558.3 raccogliere-STS+CL(F) camminare-STS+CL(V)
+1	fiore558.3	_	NOUN	S	_	2	obj	_	_
+2	raccogliere-STS+CL(F)	_	VERB	V	_	0	root	_	_
+3	camminare-STS+CL(V)	_	VERB	V	RS=>	2	conj	_	SpaceAfter=No
+
+
+ 
+# sent_id = 14
+# text_tr_it = Il lupo si avvicina camminando, ha molta fame.
+# text_gloss = lupo523.1 venire-STS camminare-STS+CL(B) aperitivo-a-fame106.2 molto-STS	
+1	lupo523.1	_	NOUN	S	_	2	nsubj	_	_
+2	venire-STS	_	VERB	V	RS=<	0	root	_	_
+3	camminare-STS+CL(B)	_	VERB	V	_	2	advcl	_	_
+4	aperitivo-a-fame106.2	_	ADJ	A	_	1	amod	_	_
+5	molto-STS	_	ADV	B	_	4	advmod	_	_
+SpaceAfter=No
+
+ 
+# sent_id = 15
+# text_tr_it = Vede Cappuccetto Rosso, si sfrega le mani, si lecca i corpo e i capelli e si avvicina.
+# text_gloss = vedere361.1 camminare-STS+CL(V) SW-sfregarsi-le-mani corpo290.1 leccare lecca-lecca gelato-a668.2
+1	vedere361.1	_	VERB	V	_	0	root	_	_
+2	camminare-STS+CL(V)	_	VERB	V	_	1	ccomp	_	_
+3	SW-sfregarsi-le-mani	_	VERB	V	_	1	conj	_	_
+4	corpo290.1	_	NOUN	S	_	5	obj	_	_
+5	leccare lecca-lecca gelato-a668.2	_	VERB	V	_	1	advcl	_	_
+6	capelli-20003	_	NOUN	S	_	4	conj	_	_
+7	camminare-STS+CL(V)	_	VERB	V	RS=>	1	conj	_	SpaceAfter=No
+
+ 
+# sent_id = 16
+# text_tr_it = "Dove vai?"
+# text_gloss = andare142.2 dove594.1
+1	andare142.2	_	VERB	V	RS=3b<	0	root	_	_
+2	dove594.1	_	ADV	B	RS=>3a	1	advmod	_	_
+SpaceAfter=No
+
+ 
+# sent_id = 17
+# text_tr_it = "Io vado a dare da mangiare alla nonna malata."
+# text_gloss = io212.3 andare142.2 nonno366.3 febbre(d)malato823.3 cena mangiare pasto pranzo581.3 dare91.1+CL(5))
+1	io212.3	_	PRON	PE	RS=3a<	2	nsubj	_	_
+2	andare142.2	_	VERB	V	_	0	root	_	_
+3	nonno366.3	_	NOUN	S	_	6	iobj	_	_
+4	febbre(d)malato823.3	_	ADJ	A	_	3	amod	_	_
+5	cena mangiare pasto pranzo581.3	_	NOUN	S	_	6	obj	_	_
+6	dare91.1+CL(5))	_	VERB	V	RS=>3b	2	xcomp	_	SpaceAfter=No
+
+ 
+# sent_id = 18
+# text_tr_it = "Dov'è la casa?"
+# text_gloss = casa-b589.2-b dove594.1
+1	casa-b589.2-b	_	NOUN	S	RS=3b<	2	nsubj	_	_
+2	dove594.1	_	ADV	B	RS=>3a	0	root	_	SpaceAfter=No
+
+ 
+# sent_id = 19
+# text_tr_it = "La casa è lontana."
+# text_gloss = casa-b 589.2-b lontano400.2 SW-posizione-casa 
+1	casa-b 589.2-b	_	NOUN	S	RS=3a<	2	nsubj	_	_
+2	lontano400.2	_	ADJ	A	_	0	root	_	_
+3	SW-posizione-casa	_	ADV	B	RS=>3b	2	advmod	_	SpaceAfter=No
+
+ 
+# sent_id = 20
+# text_tr_it = Il lupo è furbo, conosce il bosco bene e sa muoversi.
+# text_gloss = lupo523.1 furbizia furbo189.3 bosco-20001 conoscere533.2 bene va-bene!693.1 muoversi(b)776.2
+1	lupo523.1	_	NOUN	S	_	4	nsubj	_	_
+2	furbizia furbo189.3	_	ADJ	A	_	1	amod	_	_
+3	bosco-20001	_	NOUN	S	_	4	obj	_	_
+4	conoscere533.2	_	VERB	V	_	0	root	_	_
+5	bene va-bene!693.1	_	ADV	B	_	4	advmod	_	_
+6	muoversi(b)776.2	VERB	V	_	4	conj	_	_	SpaceAfter=No
+
+
+ 
+# sent_id = 21
+# text_tr_it = "Va bene, grazie, ciao."
+# text_gloss = bene va-bene!693.1 grazie-A99.3 bene va-bene!693.1 ciao20012
+1	bene va-bene!693.1	_	INTJ	I	RS=3a<	2	discourse	_	_
+2	grazie-A99.3	_	INTJ	I	_	0	root	_	_
+3	bene va-bene!693.1	_	INTJ	I	_	1	discourse	_	_
+4	ciao-20012	_	INTJ	I	RS=>3b	1	discourse	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 22
+# text_tr_it = "Aspetta, ci sono due strade, una con le curve a destra e l'altra con le curve a sinistra."
+# text_gloss = aspetta stop307.2 strada142.1 avere c'è ci-sono104.3 due376.3 strada-con-curve-a-destra-STS più-STS strada-con-curve-a-sinistra-STS
+1	aspetta stop307.2	_	INTJ	I	RS=3b<	2	dep	_	_
+2	strada142.1	_	NOUN	S	_	3	obj	_	_
+3	avere c'è ci-sono104.3	_	VERB	V	_	0	root	_	_
+4	due376.3	_	NUM	N	_	2	nummod	_	_
+5	strada-con-curve-a-destra-STS	_	NOUN	S	_	2	nmod	_	_
+6	più-STS	_	ADV	B	_	7	conj	_	_
+7	strada-con-curve-a-sinistra-STS	_	NOUN	S	_	5	conj	_	SpaceAfter=No
+
+ 
+# sent_id = 23
+# text_tr_it = "È meglio la strada con le curve a sinistra perché è più breve e arriverai prima"
+# text_gloss = meglio migliore195.3 strada-con-curve-a-sinistra-STS perché per-quale-motivo730.3 SW-questo-2(strada) breve corto146.1 arrivare raggiungere563.1 prima427.1
+1	meglio migliore195.3	_	ADV	B	_	0	root	_	_
+2	strada-con-curve-a-sinistra-STS	_	NOUN	S		1	nsubj	_	_
+3	perché per-quale-motivo730.3	_	SCONJ	CS	_	5	mark	_	_
+4	SW-questo-2(strada)	_	DET	S	_	5	nsubj	_	_
+5	breve corto146.1	_	ADJ	A	_	1	advcl	_	_
+6	arrivare raggiungere563.1	_	VERB	V	_	1	con	_	_
+7	prima427.1	_	ADV	B	RS=>3a	6	advmod	_	SpaceAfter=No
+
+
+ 
+# sent_id = 24
+# text_tr_it = Cappuccetto Rosso cammina.
+# text_gloss = camminare-STS+CL(V)
+1	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 25
+# text_tr_it = Il lupo ride e corre via.
+# text_gloss = lupo 523.1 ridere763.2 correre(a)491.3 andare via (b) filarsela squagliarsela512.2
+1	lupo 523.1	_	NOUN	S	_	0	root	_	_
+2	ridere763.2	_	VERB	V	RS=<	1	advcl	_	_
+3	correre(a)491.3	_	VERB	V	_	2	conj	_	_
+4	andare via (b) filarsela squagliarsela512.2	_	ADV	B	RS=>	3	advmod	_	_
+
+SpacesAfter=\n\n
+
+ 
+# sent_id = 26
+# text_tr_it = Arriva alla casa, si sfrega le mani.
+# text_gloss = arrivare raggiungere563.1 casa-b 589.2-b qui228.2-c SW-sfregarsi-le-mani
+1	arrivare raggiungere563.1	_	VERB	V	_	0	root	_	_
+2	casa-b 589.2-b	_	NOUN	S	RS=<	1	obl	_	_
+3	qui228.2-c	_	ADV	B	_	1	advmod	_	_
+4	SW-sfregarsi-le-mani	_	VERB	V	_	1	conj	_	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 27
+# text_tr_it = Bussa alla porta, nessuno risponde. Bussa di nuovo, nessuno risponde.
+# text_gloss = SW-bussare-alla-porta non-c'è niente no270.1 SW-bussare-alla-porta non-c'è niente no270.1
+1	SW-bussare-alla-porta	_	VERB	V	_	0	root	_	_
+2	non-c'è niente no270.1	_	ADV	B	_	1	advmod	_	_
+3	SW-bussare-alla-porta	_	VERB	V	_	1	conj	_	_
+4	non-c'è niente no270.1	_	ADV	B	_	3	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 28
+# text_tr_it = Vede il campanello e lo suona. 
+# text_gloss = vedere 361.1 bottone 690.2 campanello-STS(2)
+1	vedere 361.1	_	VERB	V	_	0	root	_	_
+2	bottone 690.2	_	NOUN	S	_	1	obj	_	_
+3	campanello-STS(2)	_	NOUN	N	RS=>	2	nmod	_	_
+SpacesAfter=\n\n
+
+ 
+# sent_id = 29
+# text_tr_it = La nonna è a letto.
+# text_gloss = nonno366.3 SW-nonna-a-letto
+1	nonno366.3	_	NOUN	S	RS=<	2	nsubj	_	_
+2	SW-nonna-a-letto	_	VERB	V	_	0	root	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 30
+# text_tr_it = Pensa che sia Cappuccetto Rosso.
+# text_gloss = cappuccio664.2 rosso202.1
+1	cappuccio664.2	_	NOUN	S	_	root	_	_
+2	rosso202.1	_	ADJ	A	_	1	flat:name	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 31
+# text_tr_it = Preme il pulsante e la porta si apre.
+# text_gloss = accendere(mediante-pulsante premere(p.e. bottone) pulsante435.3 porta154.3 aperto aprire153.2
+1	accendere(mediante-pulsante premere(p.e. bottone) pulsante435.3	_	VERB	V	RS=>	0	root	_	_
+2	porta154.3	_	NOUN	S	_	1	obj	_	_
+3	aperto aprire153.2	_	VERB	V	_	2	ccomp	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 32
+# text_tr_it = La nonna vede qualcuno avvicinarsi e pulisce gli occhiali e urla. 
+# text_gloss = SW-nonna-a-letto venire-STS SW-nonna-a-letto occhiali717.1 SW-pulire-occhiali occhiali717.1 SW-nonna-urlare		
+1	SW-nonna-a-letto	_	NOUN	S	RS=3a<|SignType=@g	2	nsubj	_	_
+2	venire-STS	_	VERB	V	_	0	root	_	_
+3	SW-nonna-a-letto	_	NOUN	S	SignType=@g	1	parataxis:?/conj	_	_
+4	occhiali717.1	_	NOUN	S	_	5	obj	_	_
+5	SW-pulire-occhiali	_	VERB	V	SignType=@g	1	advcl	_	_
+6	occhiali717.1	_	NOUN	S	_	4	parataxis:?/conj	_	_
+7	SW-nonna-urlare	_	VERB	V	RS=>3b|SignType=@g	1	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 33
+# text_tr_it = Il lupo la ingoia. 
+# text_gloss = nonno366.3 SW-ingoiare
+1	nonno366.3	_	NOUN	S	_	2	obj	_	_
+2	SW-ingoiare	_	VERB	V	RS=<3a|3b>|SignType=@g	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 34
+# text_tr_it = Si mette a letto, sposta le coperte, indossa la camicia da notte, indossa la cuffia, si copre.
+# text_gloss = coprirsi stare-a-letto98.2 SW-coperte-togliere SW-lì/là indossare-STS+CL(As) SW-indossare-cuffia coprirsi stare-a-letto98.2
+1	coprirsi stare-a-letto98.2	_	VERB	V	RS=<	0	root	_	_
+2	SW-coperte-togliere	_	VERB	V	SignType=@g	1	conj	_	_
+3	SW-lì/là	_	INT	I	_	4	advmod	_	_
+4	indossare-STS+CL(As)	_	VERB	V	_	2	conj	_	_
+5	SW-indossare-cuffia	_	NOUN	N	SignType=@g	1	conj	_	_
+6	coprirsi stare-a-letto98.2	_	VERB	V	_	1	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 35
+# text_tr_it = Vede gli occhiali e si rimette a letto.
+# text_gloss = SW-lì/là occhiali717.1 coprirsi stare-a-letto98.2
+1	SW-lì/là	_	ADV	B	_	2	advmod	_	_
+2	occhiali717.1	_	NOUN	S	_	3	obj	_	_
+3	coprirsi stare-a-letto98.2	VERB	V	RS=>	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 36
+# text_tr_it = Aspetta a lungo.
+# text_gloss = aspettare227.3
+1	aspettare227.3	_	VERB	V	@RDP=true	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 37
+# text_tr_it = Cappuccetto Rosso cammina a lungo.
+# text_gloss = cappuccio664.2 rosso202.1 camminare-STS+CL(V)
+1	cappuccio664.2	_	NOUN	S	_	3	nsubj	_
+2	rosso202.1	_	ADJ	A	_	1	flat:name	_	_
+3	camminare-STS+CL(V)	_	VERB	V	RS=<|@RDP=true	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 38
+# text_tr_it = "Non è vicino. Fa niente, non importa"
+# text_gloss = vicino123.3 come589.3 SW-rassegnazione non-importa-STS(2)
+1	vicino123.3	_	ADJ	A	_	0	root	_	_
+2	come589.3	_	ADV	B	_	1	advmod	_	_
+3	SW-rassegnazione	_	INTJ	I	SignType=@g	1	discourse	_	_
+4	non-importa-STS(2)	_	VERB	V	_	3	parataxis	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 39
+# text_tr_it = Cappuccetto Rosso continua a camminare e alla fine raggiunge la casa della nonna.
+# text_gloss = camminare-STS+CL(V) arrivare raggiungere563.1
+1	camminare-STS+CL(V)	_	VERB	V	@RDP=true	0	root	_	_
+2	arrivare raggiungere563.1	_	VERB	V	_	1	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 40
+# text_tr_it = Si avvicina e suona il campanello.
+# text_gloss = camminare-STS+CL(V) campanello-STS(2)
+1	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	_
+2	campanello-STS(2)	_	VERB	V	RS=>	1	conj	_	_
+SpacesAfter=\n\n
+
+ 
+# sent_id = 41
+# text_tr_it = Il lupo si sveglia e preme il pulsante che apre la porta.
+# text_gloss = SW-svegliarsi accendere(mediante-pulsante premere(p.e. bottone) pulsante435.3 porta154.3 aperto aprire153.2
+1	SW-svegliarsi	_	VERB	V	RS=<|SignType=@g	2	conj	_	_
+2	accendere(mediante-pulsante premere(p.e. bottone) pulsante435.3	_	VERB	V	RS=>	4	conj	_	_
+3	porta154.3	_	NOUN	S	_	4	obj	_	_
+4	aperto aprire153.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 42
+# text_tr_it = Cappuccetto Rosso cammina dà il cestino al lupo.
+# text_gloss = camminare-STS+CL(V) dare91.1+CL(5))
+1	camminare-STS+CL(V)	_	VERB	V	RS=<	0	root	_	_
+2	dare91.1+CL(5))	_	VERB	V	RS=>	2	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 43
+# text_tr_it = "Come stai?"
+# text_gloss = come306.1
+1	come306.1	_	ADV	B	RS=<3a|3b>	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 44
+# text_tr_it = "Mi fa molto male la schiena, ho molta febbre, sono molto raffreddata, ho molta febbre."
+# text_gloss = molto-STS mal-di-schiena-STS febbre81.3 molto-STS fazzoletto-da-naso-STS molto-STS febbre81.3 molto-STS
+1	molto-STS	_	ADV	B	RS=3b<	2	advmod	_	_
+2	mal-di-schiena-STS	_	NOUN	S	_	0	root	_	_
+3	febbre81.3	_	NOUN	S	_	2	conj	_	_
+4	molto-STS	_	ADV	B	_	3	advmod	_	_
+5	fazzoletto-da-naso-STS	_	NOUN	S	_	2	conj	_	_
+6	molto-STS	_	ADV	B	_	5	advmod	_	_
+7	febbre81.3	_	NOUN	S	_	2	conj	_	_
+8	molto-STS	_	ADV	B	RS=>3a	7	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 45
+# text_tr_it = "Mi dispiace."
+# text_gloss = mi-dispiace-20004
+1	mi-dispiace-20004	_	INTJ	I	RS=3a<	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 46
+# text_tr_it = "Perché i tuoi occhi sono grandi?"
+# text_gloss = SW-lì/là occhio-STS SW-grande-1(occhio) molto-STS come489.3
+1	SW-lì/là	_	ADV	B	_	2	advmod	_	_
+2	occhio-STS	_	NOUN	S	_	0	root	_	_
+3	SW-grande-1(occhio)	_	ADJ	A	_	2	amod	_	_
+4	molto-STS	_	ADV	B	_	3	advmod	_	_
+5	come489.3	_	ADV	B	RS=>3b	2	mark	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 47
+# text_tr_it = "Per vederti chiaramente."
+# text_gloss = vedere361.1 chiaro284.1
+1	vedere361.1	_	VERB	V	RS=3b<	0	root	_	_
+2	chiaro284.1	_	ADV	B	RS=>3a	1	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 48
+# text_tr_it = "Perché le tue mani sono grandi?"
+# text_gloss = SW-lì/là mano-STS SW-grande-2(mano)come489.3
+1	SW-lì/là	_	ADV	B	RS=3a<	2	advmod	_	_
+2	mano-STS	_	NOUN	S	_	0	root	_	_
+3	SW-grande-2(mano)	_	ADJ	A	_	2	amod	_	_
+4	come489.3	_	ADV	B	RS=>3b	2	mark	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 49
+# text_tr_it = "Per segnare chiaramente."
+# text_gloss = lingua-dei-segni-parlare segnare349.3 chiaro284.1
+1	lingua-dei-segni-parlare segnare349.3	RS=3b<	VERB	V	_	0	root	_	_
+2	chiaro284.1	_	ADV	B	RS=>3a	1	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 50
+# text_tr_it = "La tua bocca è grande."
+# text_gloss = SW-lì/là bocca-STS SW-grande-3(bocca)
+1	SW-lì/là	_	ADV	B	RS=3a<	2	advmod	_	_
+2	bocca-STS	_	NOUN	S	_	0	root	_	_
+3	SW-grande-3(bocca)	_	ADJ	A	RS=>3b	2	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 51
+# text_tr_it = Il lupo ingoia Cappuccetto Rosso.
+# text_gloss = SW-ingoiare
+1	SW-ingoiare	_	VERB	V	RS=3b<|>3a|SignType=@g	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 52
+# text_tr_it = Il lupo è sazio e stanco, si addormenta.
+# text_gloss = sazio-diz-romeo distrutto stanco-morto353.1 SW-addormentarsi
+1	sazio-diz-romeo	_	ADJ	A	RS=<	3	amod	_	_
+2	distrutto stanco-morto353.1	_	ADJ	A	_	1	conj	_	_
+3	SW-addormentarsi	_	VERB	V	RS=>|SignType=@g	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 53
+# text_tr_it = Fuori c'è un cacciatore che sta camminando.
+# text_gloss = fuori136.2 caccia174.3 maschio(a)91.2 camminare-STS+CL(V)
+1	fuori136.2	_	ADV	B	_	4	advmod	_	_
+2	caccia174.3	_	NOUN	S	_	4	nsubj	_	_
+3	maschio(a)91.2	_	ADJ	S	_	2	flat:name	_	_
+4	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 54
+# text_tr_it = Il cacciatore vede che la porta della casa è aperta e si chiede il perché.
+# text_gloss = vedere361.1 casa-b 589.2-b SW-posizione-casa porta154.3 aperto aprire153.2 come489.3
+1	vedere361.1	_	VERB	V	_	0	root	_	_
+2	casa-b 589.2-b	_	NOUN	S	_	1	obj	_	_
+3	SW-posizione-casa	_	ADV	B	_	2	advmod	_	_
+4	porta154.3	_	NOUN	S	_	2	obl	_	_
+5	aperto aprire153.2	_	ADJ	A	_	4	advcl	_	_
+6	come489.3	_	ADV	B	RS=<	5	mark	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 55
+# text_tr_it = Cammina ed apre la porta della casa.
+# text_gloss = camminare-STS+CL(V) SW-aprire-porta
+1	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	_
+2	SW-aprire-porta	_	VERB	V	SignType=@g	1	conj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 56
+# text_tr_it = Entra e vede il lupo sdraiato a letto.
+# text_gloss = camminare-STS+CL(V) lupo523.1 SW-lupo-sdraiato
+1	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	_
+2	lupo523.1	_	NOUN	S	_	3	obj	_	_
+3	SW-lupo-sdraiato	_	ADJ	A	_	2	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 57
+# text_tr_it = Vede la pancia grossa del lupo muoversi.
+# text_gloss = vedere361.1 SW-pancia-grossa SW-pancia-movimento
+1	vedere361.1	_	VERB	V	RS=>	0	root	_	_
+2	SW-pancia-grossa	_	NOUN	S	SignType=@g	2	acl:recl	_	_
+3	SW-pancia-movimento	_	VERB	V	SignType=@g	1	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 58
+# text_tr_it = Là c'è qualcosa di vivo.
+# text_gloss = SW-lì/là vita367.3 dentro all'interno585.1
+1	SW-lì/là	_	ADV	B	RS=3a<	2	advmod	_	_
+2	vita367.3	_	NOUN	S	_	0	root	_	_
+3	dentro all'interno585.1	_	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 59
+# text_tr_it = Estrae il coltello.
+# text_gloss = SW-estrarre-coltello coltello-20005
+1	SW-estrarre-coltello	_	VERB	V	SignType=@g	0	root	_	_
+2	coltello-20005	_	NOUN	S	_	1	obj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 60
+# text_tr_it = Taglia la pancia, la apre e si sorprende.
+# text_gloss = SW-tagliare-pancia SW-aprire-pancia sorprendersi482.1-b
+
+1	SW-tagliare-pancia	_	VERB	V	SignType=@g	0	root	_	_
+
+2	SW-aprire-pancia	_	VERB	V	SignType=@g	1	conj	_	_
+3	sorprendersi482.1-b	_	VERB	V	2	conj	_	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 61
+# text_tr_it = Prende Cappuccetto Rosso, prende la nonna.
+# text_gloss = cappuccio664.2 rosso202.1 portare-STS+CL nonno366.3 portare-STS+CL
+1	cappuccio664.2	_	NOUN	S	_	3	obj	_	_
+2	rosso202.1	_	ADJ	A	_	1	flat:name	_	_
+3	portare-STS+CL	_	VERB	V	_	0	root	_	_
+4	nonno366.3	_	NOUN	S	_	5	obj	_	_
+5	portare-STS+CL	_	VERB	V	RS=>3b	3	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 62
+# text_tr_it = Cappuccetto Rosso e la nonna sono contente.
+# text_gloss = contento295.2
+1	contento295.2	_	ADJ	A	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 63
+# text_tr_it = "Aspettate" Fate silenzio!"
+# text_gloss = aspetta stop307.2 silenzio!203.2 aspetta stop307.2
+1	aspetta stop307.2	_	VERB	V	RS=3b<	0	root	_	_
+2	silenzio!203.2	_	INTJ	I	_	1	discourse	_	_
+3	aspetta stop307.2	_	VERB	V	_	1	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 64
+# text_tr_it = "Per favore raccogliete dei sassi velocemente."
+# text_gloss = favore-per90.1 sasso pietra657.3 raccogliere-STS+CL(C) fretta presto152.2-c raccogliere-STS+CL(C)
+1	favore-per90.1	_	ADV	B	_	3	advmod	_	_
+2	sasso pietra657.3	_	NOUN	S	_	3	obj	_	_
+3	raccogliere-STS+CL(C)	VERB	V	_	0	root	_	_
+4	fretta presto152.2-c	_	ADV	B	_	3	advmod	_	_
+5	raccogliere-STS+CL(C)	_	VERB	V	_	3	conj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 65
+# text_tr_it = Prende i sassi, chiude e cuce la pancia.
+# text_gloss = rimandare(a) rinviare(a) spostare135.2+CL(C) chiudere chiusura155.2 cucire570.1
+1	rimandare(a) rinviare(a) spostare135.2+CL(C)	_	VERB	V	_	2	root	_	_
+2	chiudere chiusura155.2	_	VERB	V	_	1	conj	_	_
+3	cucire570.1	_	VERB	V	_	2	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 66
+# text_tr_it = I tre si nascondono dietro un tavolo.
+# text_gloss = andare142.2 camminare-STS+CL(V) SW-sbirciare guardare360.3
+1	andare142.2	_	VERB	V	_	0	root	_	_
+2	camminare-STS+CL(V)	_	VERB	V	_	1	conj	_	_
+3	SW-sbirciare	_	VERB	V	SignType=@g	2	conj	_	_
+4	guardare360.3	_	VERB	V	RS=>3a	3	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 67
+# text_tr_it = Il lupo si sveglia e sbadiglia.
+# text_gloss = lupo523.1 svegliarsi453.2 sbadigliare-STS
+1	lupo523.1	_	NOUN	S	_	2	nsubj	_	_
+2	svegliarsi453.2	_	VERB	V	RS=<	0	root	_	_
+3	sbadigliare-STS	_	VERB	V	_	2	conj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 68
+# text_tr_it = Si alza dal letto e si sente molto appesantito.
+# text_gloss = alzarsi369.2-c pesante-STS molto-STS
+1	alzarsi369.2-c	-	VERB	V	_	0	root	_	_
+2	pesante-STS	_	ADJ	A	_	1	amod	_	_
+3	molto-STS	_	ADV	B	_	2	advmod	_	_
+
+ 
+# sent_id = 69
+# text_tr_it = "Ho mangiato troppo, non importa."
+# text_gloss = cena mangiare pasto pranzo581.3 troppo263.2 non-importa-STS(2)
+1	cena mangiare pasto pranzo581.3	_	VERB	V	_	0	root	_	_
+2	troppo263.2	_	ADV	B	_	1	advmod	_	_
+3	non-importa-STS(2)	_	VERB	B	_	1	parataxis	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 70
+# text_tr_it = Cammina, ha molta sete.
+# text_gloss = camminare-STS+CL(V) sete206.3 molto-STS
+1	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	_
+2	sete206.3	_	NOUN	S	_	1	obj	_	_
+3	molto-STS	_	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 71
+# text_tr_it = Si guarda intorno e vede un pozzo.
+# text_gloss = SW-lì/là
+1	guardare360.3	_	VERB	V	_	0	root	_	_
+2	SW-lì/là	_	ADV	B	_	1	advmod	_	_
+3	pozzo-STS	_	NOUN	S	_	1	obj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 72
+# text_tr_it = Cammina fino al pozzo, cade e muore.
+# text_gloss = camminare-STS+CL(V) cadere111.2 morto175.2 finire fatto 308.1-b
+1	camminare-STS+CL(V)	_	VERB	V	_	0	root	_	_
+2	cadere111.2	_	VERB	V	RS=>	1	conj	_	_
+3	morto175.2	_	VERB	V	_	2	conj	_	_
+4	finire fatto 308.1-b	_	AUX	V	_	3	aux	_	SpacesAfter=\n\n
+
+
+ 
+# sent_id = 73
+# text_tr_it = I tre festeggiano allegri e mangiano.
+# text_gloss = egli esso lei loro lui(non-presenti) lui quello321.1+CL(3) festa300.1 contento295.2 cena mangiare pasto pranzo581.3
+1	egli esso lei loro lui(non-presenti) lui quello321.1+CL(3)	_	PRON	P	_	2	nsubj	_	_
+2	festa300.1	_	VERB	V	_	0	root	_	_
+3	contento295.2	_	ADJ	A	_	1	amod	_	_
+4	cena mangiare pasto pranzo581.3	_	VERB	V	_	1	conj	_	SpacesAfter=\n
+

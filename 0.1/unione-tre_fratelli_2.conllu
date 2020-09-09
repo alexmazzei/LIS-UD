@@ -1,0 +1,2188 @@
+# newdoc
+  
+# sent_id = 1
+# source_text = Mandata da qualche giovane di buona famiglia a domandar la mano di una sposa di qualche ragazza di non meno buona famiglia.
+# text_tr_it = il giovane andava a chiedere 
+# text_gloss =
+
+1	andare142.2	_	VERB	V	_	0	root	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+3	giovane594.2_b	_	NOUN	S	_	1	nsubj	_	_
+4	chiedere domandare592.1	_	VERB	V	_	1	xcomp	_	_
+5	andare142.2	_	VERB	V	_	1	advcl	_	_
+6	famiglia300.2	_	NOUN	S	_	4	obj	_	_
+7	chiedere domandare592.1	_	VERB	V	_	4	advcl	_	_
+8	anello marito matrimonio moglie824.2	_	VERB	V	_	7	advcl	_	_
+9	donna femmina_B163.2	_	NOUN	S	_	8	obj	_	_
+10	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	9	det	_	SpacesAfter=\n\n
+
+# sent_id = 2
+# source_text = Le due donne avevano la stessa età, più verso i 40 che verso i 30. Ma mentre Pauledda rimaneva Pauledda, col semplice suo nome, e tutti ancora compresi i bambini le davano del tu, l'altra sposatasi tanti anni prima a un vedono con tre figli già grandi era diventata zia Carula.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	_	NOUN	S	_	3	nsubj	_	_
+2	tutti-e-due voi-due380.2	_	NUM	N	_	1	nummod	_	_
+3	anni età275.2	_	NOUN	S	_	0	root	_	_
+4	circa_STS	_	ADV	BV	_	5	advmod	_	_
+5	medio quasi simile313.2	_	ADJ	A	_	3	amod	_	_
+6	quaranta_STS	_	NUM	N	_	7	nummod	_	_
+7	circa_STS	_	ADV	B	_	4	advmod	_	_
+8	ma139.2	_	CCONJ	CC	_	9	cc	_	_
+9	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	10	det	_	_
+10	PAULEDDA	_	PROPN	SP	SignType=@b	1	nmod	_	_
+11	nome titolo173.1_c	_	NOUN	S	_	10	nmod	_	_
+12	identico_20006	_	ADJ	A	_	11	amod	_	_
+13	semplice274.3_b	_	ADJ	A	_	14	amod	_	_
+14	nome titolo173.1_c	_	NOUN	S	_	10	nmod	_	_
+15	tutto(2)_STS	_	DET	D	_	18	det:predet	_	_
+16	ancora(b)240.1	_	ADV	B	_	17	advmod	_	_
+17	bambino138.1	_	NOUN	S	_	15	nmod	_	_
+18	parlare(b)534.2	_	VERB	V	_	10	advcl	_	_
+19	dare591.1+CL(L)	_	VERB	V	_	10	conj	_	_
+20	tu233.3	_	PRON	P	_	19	fixed	_	_
+21	altro304.2	_	ADJ	A	_	1	amod	_	_
+22	molto-tempo-fa100.3	_	ADV	S	_	23	advmod	_	_
+23	sposare sposarsi sposato824.1	_	VERB	V	_	21	conj	_	_
+24	uomo_STS	_	NOUN	S	_	23	obj	_	_
+25	vedovo_2007	_	ADJ	A	_	24	amod	_	_
+26	già_STS	_	ADV	B	_	28	advmod	_	_
+27	figlio398.1	_	NOUN	S	_	24	nmod	_	_
+28	crescere128.1	_	ADJ	A	_	27	amod	_	_
+29	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	21	nmod	_	_
+30	nome titolo173.1_c	_	NOUN	S	_	29	obj	_	_
+31	diventare trasformare313.1	_	VERB	V	_	30	advcl	_	_
+32	zio205.2	_	NOUN	S	_	21	nmod	_	_
+33	CARULA	_	PROPN	SP	SignType=@b	32	flat:name	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 3
+#source_text = Tornava all'assalto fino a riuscire, contentando così il pretendente.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	accettare778.1	_	VERB	V	_	0	root	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	4	det	_	_
+4	giovane594.2_b	_	NOUN	N	_	5	obj	_	_
+5	contento295.2	_	ADJ	A	_	4	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 4
+#source_text = Per Pauledda aveva parecchie domande ma era certa del rifiuto. Ogni giorno però nei loro innocenti colloqui l'argomento era sempre quello.
+# text_tr_it =
+# text_gloss =
+1	PAULEDDA	_	PROPN	S	SignType=@b	5	obj	_	_
+2	amico collega695.3	_	ADJ	A	_	1	amod	_	_
+3	quanto437.2	_	ADV	B	-	4	advmod	_	_
+4	uomo_STS	_	NOUN	S	_	1	nsubj	_	_
+5	desiderare piacere preferire volere288.1	_	VERB	V	_	0	root	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+7	anello marito matrimonio moglie824.2	_	VERB	V	_	5	???	_	_
+8	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	6	det	_	_
+9	chiedere domandare592.1	_	VERB	V	-	4	advcl	_	_
+10	mai401.2	_	ADV	B	_	9	advmod	_	_
+11	sapere185.3	_	VERB	V	-	4	advcl	_	_
+12	rifiuto_STS	_	NOUN	S	_	11	ccomp	_	_
+13	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	8	nsubj	_	_
+14	andare142.2	_	AUX	V	_	9	xcomp	_	_
+15	vedere361.1	_	VERB	V	_	9	xcomp	_	_
+16	spettegolare pettegolezzo chiacchiere_a363.1	_	VERB	V	_	9	xcomp	_	_
+17	uguale245.2	_	ADJ	A	-	1	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 5
+# source_text = Seduta a cucire sotto il pergolato che copriva tutto il cortile.
+# text_tr_it =
+# text_gloss =
+
+1	PAULEDDA	_	PROPN	S	SignType=@b	2	nsubj	_	_
+2	dire202.2	_	VERB	V	_	0	root	_	_
+3	cucire570.1	_	VERB	V	_	2	advcl	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	-	DET	D	_	1	det	_	_
+5	cucire570.1	_	VERB	V	_	3	advcl	_	_
+6	giardino_STS	_	NOUN	S	_	3	nmod	_	_
+7	tetto casa(b)133.2_b	_	NOUN	S	_	3	nmod	_	_
+8	dire202.2	_	VERB	V	_	2	advcl	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 6
+# source_text = Non tutte le donne sono nate per aver lo stesso destino.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	_	NOUN	S	RS=<	0	root	_	_
+2	uguale245.2	_	ADJ	A	_	1	amod	_	_
+3	no231.2	_	ADV	BN	-	2	advmod	_	_
+4	destino_STS	_	NOUN	S	-	1	obj	_	_
+5	differente differenza diverso244.1	_	ADJ	A	_	4	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 7
+# source_text = Io, per esempio, dopo aver passato tutta la fanciullezza a faticare.
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	_	7	nsubj	_	_
+2	esempio182.3	_	NOUN	S	_	1	nmod	_	_
+3	molto-tempo-fa100.3	_	ADV	B	-	7	advmod	_	_
+4	bambino138.1	_	ADJ	A	_	1	amod	_	_
+5	famiglia300.2	_	NOUN	S	_	2	obj	_	_
+6	fatica faticoso285.1	_	ADJ	A	_	7	amod	_	_
+7	lavorare lavoro630.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 8
+# source_text = Ricordati che famiglia numerosa era la nostra.
+# text_tr_it =
+# text_gloss =
+1	pensare188.1	_	VERB	V	-	0	root	_	_
+2	famiglia300.2	_	NOUN	S	_	1	obj	_	_
+3	quanto437.2	_	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 9
+# source_text = Sono tranquilla in casa mia, seduta come una signora sulla scranna.
+# text_tr_it =
+# text_gloss =
+1	casa_b589.2_b	_	NOUN	S	_	4	nmod	_	_
+2	tranquillo339.2	_	ADJ	A	_	3	amod	_	_
+3	signora_20019	_	NOUN	S	_	4	nsubj	_	_
+4	sedersi sedia_D351.3_d+CL(C)	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 10
+# source_text = Mi pare di essere arrivata a porto dopo una tempesta, perché devo di nuovo rimettermi in alto mare?
+# text_tr_it =
+# text_gloss =
+1	mare316.3	_	NOUN	S	_	3	nmod	_	_
+2	onda-di-marea_STS	_	ADJ	A	_	1	amod	_	_
+3	io212.3	_	PRON	P	_	5	nsubj	_	_
+4	barca149.3	_	NOUN	S	_	3	obj	_	_
+5	arrivare raggiungere563.1	_	VERB	V	_	0	root	_	_
+6	io212.3	_	PRON	P	_	3	nsubj	_	_
+7	mare316.3	_	NOUN	S	_	5	obj	_	_
+8	ripetere536.1	_	VERB	V	_	7	advcl	_	_
+9	no231.2	_	ADV	BN	_	8	advmod	RS=>	SpacesAfter=\n\n
+
+ 
+# sent_id = 11
+# source_text = Zia Carula, piccola e tutta scintillante nell’ombra ricamata di sole del pergolato, versava il suo caffè nel piattino e soffiandovi su approvava.
+# text_tr_it =
+# text_gloss =
+1	zio205.2	_	NOUN	S	_	9	nsubj	_	_
+2	CARULA	_	PROPN	S	SignType=@b	1	flat:name	_	_
+3	basso130.1	_	ADJ	A	_	1	amod	_	_
+4	tetto casa(b)133.2_b	_	NOUN	S	_	2	nmod	_	_
+5	sole257.2_c	_	NOUN	S	_	4	nmod	_	_
+6	luce_c472.1	_	NOUN	S	-	4	nmod	_	_
+7	brillare_STS	_	VERB	V	_	1	advcl	_	_
+8	io212.3	_	DET	D	_	1	det	_	_
+9	caffè(a)561.3_c	_	VERB	V	-	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 12
+# source_text = Sei una signora, sì; stai bene, sì, sulla tua scranna. Ma il marito è sempre il marito...
+# text_tr_it =
+# text_gloss =
+1	si402.2+CL(As)	_	ADV	B	RS=3b<	2	advmod	_	_
+2	si402.2	_	ADV	B	_	4	advmod	_	_
+3	tu233.3	_	PRON	P	_	4	nsubj	_	_
+4	signora_20019	_	NOUN	S	_	3	nmod	_	_
+5	bene va-bene!693.1	_	ADV	B	_	3	advmod	_	_
+6	tu233.3	_	PRON	P	_	3	nsubj	_	_
+7	sedersi sedia_D351.3_d+CL(B)	_	VERB	V	-	3	xcomp	_	_
+8	tu233.3	_	PRON	P	_	6	nsubj	_	_
+9	uomo_STS	_	NOUN	S	-	11	obj	_	_
+10	anello marito matrimonio moglie824.2	_	VERB	V	_	9	acl	_	_
+11	serve425.1	_	VERB	V	RS=>3a	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 13
+# source_text = Ne conosco io, di mariti.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	RS=3a<	2	nsubj	_	_
+2	conoscere533.2	_	VERB	V	_	0	root	_	_
+3	quanto437.2	-	ADV	B	_	5	obj	_	_
+4	anello marito matrimonio moglie824.2	_	NOUN	S	_	5	obj	_	_
+5	desiderare piacere preferire volere288.1	_	VERB	V	_	2	advcl	_	_
+6	no231.2	_	ADV	BN	RS=>3b	5	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 14
+# source_text = Sì, ce ne sono, di libertini e scapestrati.
+# text_tr_it =
+# text_gloss =
+1	si402.2	_	ADV	B	RS=3b<	2	amod	_	_
+2	vero veramente reale realtà357.1	_	ADJ	A	_	3	amod	_	_
+3	avere c'è ci-sono104.3	_	VERB	V	_	0	root	_	_
+4	libero_(a)461.2	_	ADJ	A	-	3	amod	_	_
+5	potente(2)_STS	_	ADJ	A	_	3	amod	_	_
+6	molti tanti_B529.1_b	_	ADV	B	_	3	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 15
+# source_text = Ma ce n'è uno.
+# text_tr_it =
+# text_gloss =
+1	ma139.2	_	ADV	B	_	2	advmod	_	_
+2	avere c'è ci-sono104.3	_	VERB	V	_	0	root	_	_
+3	uno_STS	_	NUM	N	_	2	nummod	_	_
+4	possibile643.2	_	ADJ	A	-	3	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 16
+# source_text = Aspetta, fammi finire.
+# text_tr_it =
+# text_gloss =
+1	aspetta stop307.2	_	VERB	V	_	3	advcl	_	_
+2	desiderare piacere preferire volere288.1	_	AUX	V	_	1	aux	_	_
+3	parlare(b)534.2	_	VERB	V	RS=>3a	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 17
+# source_text = Pauledda faceva tali gesti di protesta.
+# text_tr_it =
+# text_gloss =
+1	PAULEDDA	_	NOUN	S	RS=3a<|SignType=@b	3	nsubj	_	_
+2	no231.2	no	ADV	BN	_	3	advmod	_	_
+3	protestare_STS	_	VERB	V	_	0	root	_	_
+4	faccia viso181.2	_	NOUN	S	_	3	obj	_	_
+5	no231.2	_	ADV	BN	RS=>3b	4	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 18
+# source_text = Aveva il capo fine e bruno carico di trecce dure e strette come corde.
+# text_tr_it =
+# text_gloss =
+1	treccia_STS	_	NOUN	S	_	0	root	_	_
+2	nodo_STS	_	ADJ	A	_	1	amod	_	_
+3	pieno (b) stretto596.1	_	ADJ	A	_	2	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 19
+# source_text = L'altra non osava proseguire.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	3	nsubj	_	_
+2	no231.2	_	ADV	BN	_	4	advmod	_	_
+3	io212.3	_	PRON	P	RS=3b<	1	nsubj	_	_
+4	parlare(b)534.2	_	VERB	V	_	5	acl	_	_
+5	paura_20021	_	NOUN	S	RS=>3a	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 20
+# source_text = "Tu mi conosci, Carula."
+# text_tr_it =
+# text_gloss =
+1	tu233.3	_	PRON	P	RS=3a<	2	nsubj	_	_
+2	conoscere533.2	_	VERB	V	_	0	root	_	_
+3	persona personaggio personale726.1	_	NOUN	S	_	4	nmod	_	_
+4	io212.3	_	PRON	P	_	2	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 21
+# source_text = "Avevamo un discreto patrimonio, ma i giovani benestanti dicevano con disprezzo: quando sarà diviso in dieci toccherà un canestro di farro a ciascuno!"
+# text_tr_it =
+# text_gloss =
+1	patrimonio_20012	_	NOUN	S	_	0	root	_	_
+2	costare denaro soldi607.2	_	NOUN	S	_	1	nmod	_	_
+3	abbastanza97.1	_	ADV	B	_	1	advmod	_	_
+4	ma139.2	_	CCONJ	CC	_	7	cc	_	_
+5	persona personaggio personale726.1	_	NOUN	S	_	7	obj	_	_
+6	uomo_STS	_	NOUN	S	_	7	nsubj	_	_
+7	pensare188.1	_	VERB	V	_	8	advcl	_	_
+8	dividere_STS	_	VERB	V	_	1	advcl	_	_
+9	poco251.1	_	ADV	B	_	1	advmod	_	_
+10	dare591.1+CL(C)	_	VERB	V	@RDP=true	8	ccomp	_	_
+11	poco251.1	_	ADV	B	_	10	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 22
+# source_text = "Così non mi volevano, perché ero quasi povera."
+# text_tr_it =
+# text_gloss =
+1	uomo_STS	_	NOUN	S	_	2	nsubj	_	_
+2	desiderare piacere preferire volere288.1	_	VERB	V	_	0	root	_	_
+3	me_STS	_	PRON	P	_	2	obj	_	_
+4	medio quasi simile313.2	_	ADB	B	_	3	advmod	_	_
+5	povero consumato769.2	_	ADJ	A	_	3	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 23
+# source_text = "Poi pensavo, — adesso che gli uccelli della fantasia son volati via."
+# text_tr_it =
+# text_gloss =
+1	pensare188.1	_	VERB	V	_	0	root	_	_
+2	fantasia_20022	fantasia	NOUN	S	_	3	obj	_	_
+3	scomparire sparire615.2	_	VERB	V	_	1	ccomp	_	_
+
+ 
+# sent_id = 24
+# source_text = "Ora te lo posso dire."
+# text_tr_it =
+# text_gloss =
+1	ora-(avv.)130.3_f	_	ADV	B	_	2	advmod	_	_
+2	avanti rimandare spostare rinviare promosso superato_D 143.2_d	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 25
+# source_text = Vestita a nuovo, con la benda candida, il corsetto di broccato, la cintura d'argento, camminava composta rasente al muro.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	10	nsubj	_	_
+2	vestito vestirsi291.2	_	NOUN	S	_	1	obj	_	_
+3	nuovo111.1	_	ADJ	A	_	2	amod	_	_
+4	benda_20008	_	NOUN	S	_	1	conj	_	_
+5	bianco524.3	_	ADJ	A	_	4	amod	_	_
+6	sciarpa474.3	_	NOUN	S	_	4	conj	_	_
+7	broccato_20009	_	ADJ	A	_	6	amod	_	_
+8	cintura(a)626.1	_	NOUN	S	_	6	conj	_	_
+9	argento_STS	_	ADJ	A	_	8	amod	_	_
+10	camminare_STS	_	VERB	V	_	0	root	_	_
+11	vicino123.2	_	ADV	B	_	12	case	_	_
+12	muro109.3	-	NOUN	S	_	10	obl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 26
+# source_text = "Quando tutto andrà bene ci sposeremo."
+# text_tr_it =
+# text_gloss =
+1	dopo240.1_b	_	ADV	B	_	2	advmod	_	_
+2	scomparire sparire615.2	_	VERB	V	_	4	advcl	_	_
+3	dopo240.1_b	_	ADV	B	_	1	advmod	_	_
+4	anello marito matrimonio moglie824.2	_	VERB	V	-	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 27
+# source_text = I matrimoni combinati da lei riuscivano bene, ella convinceva anche le ragazze più ambizione ad accettar partito.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	comunicare(b) comunicazione(a)719.2_b	_	VERB	V	_	2	dep	_	_
+3	(matrimonio) anello marito matrimonio moglie824.2	_	NOUN	N	_	2	obj	_	_
+4	(combinato) appuntamento essere-d'accordo576.1	_	ADJ	A	_	3	amo	_	_
+5	bene va-bene!693.1	_	ADV	B	_	2	advmod	_	_
+6	insistere_STS	_	VERB	V	_	1	advcl	_	_
+7	donna femmina_B163.2	_	NOUN	S	_	6	obj	_	_
+8	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	7	dei	_	_
+9	sposare sposarsi sposato824.1	_	VERB	V	_	10	advcl	_	_
+10	accettare778.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+
+# sent_id = 28
+# source_text = "Com’era semplice, vero?"
+# text_tr_it =
+# text_gloss =
+1	pensare188.1	_	VERB	V	_	0	root	_	_
+2	facile403.2	_	ADJ	A	_	1	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 29
+# source_text = "Così passò il tempo, tu lo sai, come il vento passa nell’aria."
+# text_tr_it =
+# text_gloss =
+1	invece247.3	_	ADV	B	_	2	advmod	_	_
+2	tempo220.2	_	NOUN	S	_	5	nsubj	_	_
+3	(passa)dopo240.1_b	_	VERB	V	_	0	root	_	_
+4	tu233.3	_	PRON	P	_	5	obj	_	_
+5	sapere185.3	_	VERB	V	_	3	advcl	_	_
+6	vento_a306.3	_	NOUN	S	_	7	obj	_	_
+7	uguale245.2	_	ADJ	A	_	2	amod	_	SpacesAfter=\s\s\n\n
+
+ 
+# sent_id = 30
+# source_text = "Morì mio padre, morirono le mie sorelle; venne l’anno del vaiolo e la morte si portò via i miei fratelli."
+# text_tr_it =
+# text_gloss =
+1	babbo(To) padre(To) papà(To)164.1	_	NOUN	S	_	2	nsubj	_	_
+2	morto175.2	_	VERB	V	_	0	root	_	_
+3	sorella429.2	_	NOUN	S	_	4	nsubj	_	_
+4	morto175.2	_	NOUN	S	_	2	conj	_	_
+5	malato823.3	_	VERB	V	_	4	acl	_	_
+6	VAIOLO	_	PROPN	P	SignType=@b	7	obj	_	_
+7	diffuso_STS	_	VERB	V	_	2	advcl	_	_
+8	fratello245.1	_	NOUN	S	_	9	nsubj	_	_
+9	morto175.2	_	ADJ	A	_	4	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 31
+# source_text = "Io rimasi sola come il filo d'erba mosso dal vento, ma il patrimonio non fu diviso."
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	_	4	nsubj	_	_
+2	celibe nubile scapolo solo-da vedovo428.3	_	ADJ	A	_	0	root	_	_
+3	uguale245.2	_	ADP	E	_	4	case	_	_
+4	erba328.3_b	_	NOUN	S	_	2	obj	_	_
+5	filo-d'erba20011	_	NOUN	N	_	4	nmod	_	_
+6	celibe nubile scapolo solo-da vedovo428.3	_	ADJ	A	_	2	amod	_	_
+7	ma139.2	_	CCONJ	CC	_	8	cc	_	_
+8	patrimonio_20012	_	NOUN	S	_	4	nsubj	_	_
+9	me_STS	_	DET	D	_	8	det:poss	_	_
+10	unico_a232.1_b	_	ADV	B	_	9	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 32
+# source_text = "Allora i partiti fioccarono."
+# text_tr_it =
+# text_gloss =
+1	uomo_STS	_	NOUN	S	-	4	obj	_	_
+2	quanto437.2	_	ADV	B	_	1	advmod	_	_
+3	chiedere domandare592.1	_	VERB	V	_	0	root	_	_
+4	sapere185.3	-	VERB	V	_	3	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 33
+# source_text = "Loro venivano e mi chiedevano di sposarli."
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	venire_STS	_	VERB	V	_	0	root	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	1	nsubj	_	_
+4	chiedere domandare592.1	-	VERB	V	_	2	advcl	_	_
+5	anello marito matrimonio moglie824.2	_	VERB	V	_	4	ccomp	_	SpacesAfter=\s\n\n
+
+  
+# sent_id = 34
+# source_text = "Altri ancora me lo chiedevano."
+# text_tr_it =
+# text_gloss =
+1	altro304.2	_	PRON	P	_	2	nsubj	_	_
+2	chiedere domandare592.1	-	VERB	V	_	0	root	_	_
+3	ripetere536.1	_	VERB	V	-	2	xcomp	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 35
+# source_text =  "Ma ti dico e ti ripeto: gli uomini adesso mi fan dispetto."
+# text_tr_it =
+# text_gloss =
+1	ora-(avv.)130.3_f	_	ADV	B	_	3	advmod	_	_
+2	uomo_STS	_	NOUN	S	_	3	obj	_	_
+3	rifiuto_STS	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 36
+# source_text = "Quasi non serbo rancore alla sorte maligna che me li ha fatti conoscere."
+# text_tr_it =
+# text_gloss =
+1	(molto)molto-tempo-fa100.3	_	ADV	B	_	2	advmod	_	_
+2	anno(1)_STS	_	NOUN	S	_	3	obl	_	_
+3	(fa)molto-tempo-fa100.3	_	ADV	B	_	2	advmod	_	_
+4	capire(b)capito184.3	_	VERB	V	_	0	root	_	_
+5	io212.3	_	PRON	P	_	4	nsubj	_	_
+6	contento295.2	_	ADJ	A	_	4	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 37
+# source_text = "Essi mi vogliono, adesso."
+# text_tr_it =
+# text_gloss =
+1	ora-(avv.)130.3_f	_	ADV	B	_	2	advmod	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	3	nsubj	_	_
+3	desiderare piacere preferire volere288.1	_	VERB	V	_	0	root	_	_
+4	me_STS	_	PRON	P	_	3	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 38
+# source_text = "Perché ho la roba."
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	_	0	root	_	_
+2	patrimonio_20012	_	NOUN	S	_	1	obj	_	_
+3	abbastanza97.1	_	ADV	B	_	2	advmod	_	_
+4	bene va-bene!693.1	_	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 39
+# source_text = "Andate, impiccatevi!"
+# text_tr_it =
+# text_gloss =
+1	ora-(avv.)130.3_f	_	ADV	B	_	2	advmod	_	_
+2	andare142.2	_	VERB	V	RS=>3b	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 40
+# source_text = Ma la paraninfa sorrideva per lo sdegno di Pauledda: si alzava, deponeva la tazzina, s’accomodava la cintura e il grembiale.
+# text_tr_it =
+# text_gloss =
+1	amico collega695.3	_	NOUN	S	_	3	nsubj	_	_
+2	suo243.2	_	DET	D	_	1	det:poss	_	_
+3	sorridere365.3_c	_	VERB	V	_	0	root	_	_
+4	alzarsi369.2	_	VERB	V	_	3	conj	_	_
+5	caffè(a)561.3_c	_	NOUN	S	_	6	obj	_	_
+6	posare_STS+CL(c)	_	VERB	V	_	4	conj	_	_
+7	cintura(b)723.3	_	NOUN	S	_	6	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 41
+# source_text = "Tu hai ragione, Paulè."
+# text_tr_it =
+# text_gloss =
+1	PAULEDDA	_	PROPN	S	RS=3b<|SignType=@b	3	vocative	_	_
+2	tu233.3	_	DET	D	-	3	det	_	_
+3	ragione_20022	_	VERB	V	_	0	root	_	_
+4	tu233.3	_	DET	D	_	2	det	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 42
+# source_text = "Ma se l’uomo fosse un ricco? Andria Maronzu, verbigrazia? Quello non sarebbe per la roba, certo."
+# text_tr_it =
+# text_gloss =
+1	avere c'è ci-sono104.3	_	VERB	V	_	0	root	_	_
+2	uomo_STS	_	NOUN	S	_	1	obj	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+4	MARONZO	_	PROPN	A	SignType=@b	2	nmod	_	_
+5	esempio182.3	_	NOUN	S	_	7	obl	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+7	desiderare piacere preferire volere288.1	_	VERB	V	_	2	advcl	_	_
+8	tu233.3	_	PRON	P	_	7	obj	_	_
+9	costare denaro soldi607.2	_	NOUN	S	_	10	obj	_	_
+10	patrimonio_20012	_	NOUN	S	_	9	nmod	_	_
+11	no231.2	_	ADV	BN	RS=>3a	7	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 43
+# source_text = Questo nome soltanto riusciva a placare il disprezzo di Pauledda per gli uomini.
+# text_tr_it =
+# text_gloss = 
+1	PAULEDDA	_	PROPN	S	SignType=@b	2	nsubj	_	_
+2	pensare188.1	_	VERB	V	_	0	root	_	_
+3	uomo_STS	_	NOUN	S	_	2	obj	_	_
+4	quello_STS	_	DET	D	_	3	det	_	_
+5	forse313.3	_	ADV	B	RS=3a<	2	advmod	_	_
+6	desiderare piacere preferire volere288.1	_	VERB	V	RS=>3b	2	ccomp	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 44
+# source_text = Un giorno ella completò le sue confidenze dicendo a zia Carula:
+# text_tr_it =
+# text_gloss =
+1	un-giorno226.1	_	NOUN	S	_	3	obl	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	3	nsubj	_	_
+3	confidare_20023	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 45
+# source_text = "Ma adesso anche lui è per me uguale a tutti gli altri."
+# text_tr_it =
+# text_gloss =
+1	adesso(a)103.3_e	_	ADV	B	RS=3a<	2	advmod	_	_
+2	diventare trasformare313.1	_	VERB	V	_	0	root	_	_
+3	uguale245.2	_	ADP	E	_	5	case	_	_
+4	altro304.2	_	ADJ	a	_	5	amod	_	_
+5	uomo_STS	_	NOUN	S	_	2	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 46
+# source_text = "Lui non mi vuole e io non voglio lui."
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	desiderare piacere preferire volere288.1	_	VERB	V	_	0	root	_	_
+3	me_STS	_	PRON	P	_	2	obj	_	SpacesAfter=\s\s
+4	desiderare piacere preferire volere288.1	_	VERB	V	_	2	conj	_	_
+5	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	RS=>3b	4	obj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 47
+# source_text = Ma la donnina se ne andò stringendo le labbra sotto il lembo della benda: ricordava uno dei «contos d’Isoppo» portati spesso ad esempio da zio Felix il potatore.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	-	NOUN	S	_	2	nsubj	_	_
+2	benda_20008	_	ADJ	A	_	1	amod	_	_
+3	uscire402.3	_	VERB	V	_	0	root	_	_
+4	pensare188.1	_	VERB	V	_	3	conj	_	_
+5	raccontare_c288.2_c	_	NOUN	S	-	4	obj	_	_
+6	ISOPO	_	NOUN	N	SignType=@b	5	nmod	_	_
+7	zio205.2	_	NOUN	S	_	5	nsubj	_	_
+8	FELIX	_	ADJ	A	SignType=@b_	7	nmod/flat:name	_	_
+9	raccontare_c288.2_c	_	VERB	V	_	5	advcl	_	_
+10	sempre699.1_b	_	ADV	B	_	5	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 48
+# source_text = Raccontava la storia di una volpe che non voleva l’uva perché non riusciva a prenderla.
+# text_tr_it =
+# text_gloss =
+1	dire202.2	_	VERB	V	_	7	advcl	_	_
+2	frase572.2	_	NOUN	S	_	1	obj	_	_
+3	volpe(a)523.1_b	_	NOUN	S	_	2	nmod	_	_
+4	uva_B688.2_b	_	NOUN	S	_	5	obj	_	_
+5	prendere545.2	-	VERB	V	_	3	advcl	_	_
+6	impossibile_PA-PA	_	ADJ	A	_	5	amod	_	_
+7	significare_STS	_	VERB	V	_	0	root	_	_
+8	desiderare piacere preferire volere288.1	_	VERB	V	_	5	xcomp	_	_
+9	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	4	det	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 49
+# source_text = Anche a casa sua ella parlava continuamente di Pauledda, della sua roba, delle sue doti di massaia.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	-	NOUN	S	-	2	nsubj	_	_
+2	andare142.2	_	VERB	V	_	0	root	_	_
+3	casa_b589.2_b	_	NOUN	S	_	2	nmod	_	_
+4	raccontare_c288.2_c	_	VERB	V	_	2	conj	_	_
+5	PAULEDDA	_	PROPN	S	SignType=@b	4	obj	_	_
+6	lavorare lavoro630.1	_	VERB	V	_	5	advcl	_	_
+7	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	5	det	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 50
+# source_text = Raccontava del suo disprezzo per gli uomini.
+# text_tr_it =
+# text_gloss =
+1	raccontare_c288.2_c	_	VERB	V	_	5	advcl	_	_
+2	rifiuto_STS	_	NOUN	S	_	1	ccomp	_	_
+3	uomo_STS	_	NOUN	S	_	3	obj	_	_
+4	figlio398.1	_	NOUN	S	_	5	nsubj	_	_
+5	ascoltare735.3	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 51
+# source_text = Riferiva tutti i discorsi della sua amica
+# text_tr_it =
+# text_gloss =
+1	raccontare_c288.2_c	_	VERB	V	_	0	root	_	_
+2	tutto(1)_STS	_	DET	D	_	3	det	_	_
+3	(discussioni)descrivere_20037	_	NOUN	S	_	1	obj	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	5	det	_	_
+5	amico collega695.3	_	ADJ	A	_	3	amod	_	_
+6	raccontare_c288.2_c	_	VERB	V	_	1	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 52
+# source_text = I giovanotti si beffavano delle fantasticherie giovanili di Pauledda.
+# text_tr_it =
+# text_gloss =
+1	giovane594.2_b	_	ADJ	A	_	2	nsubj	_	_
+2	prendere-in-giro665.3	_	VERB	V	_	0	root	_	_
+3	favola760.3	_	NOUN	S	_	2	obj	_	_
+4	PAULEDDA	_	NOUN	S	SignType=@b	3	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 53
+# source_text = Dicevano:
+# text_tr_it =
+# text_gloss =
+1	dire202.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 54
+# source_text = "Voleva l’ospite, ma ricco!"
+# text_tr_it =
+# text_gloss =
+2	ospite invito invitare ricevimento benvenuto137.2	_	NOUN	S	RS=<	1	obj	_	_
+3	si402.2	_	ADV	B	_	4	amod	_	_
+4	desiderare piacere preferire volere288.1	_	VERB	V	_	0	root	_	_
+5	ricco297.1	_	ADJ	A	_	2	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 55
+# source_text = "Se fosse stato un venditore di pale e palette di Tonara non l’avrebbe voluto."
+# text_tr_it =
+# text_gloss =
+1	se(b)459.1	_	SCONJ	CS	_	2	mark	_	SpacesAfter=\s\s
+2	(venditore)vendere venduto455.2	_	NOUN	S	_	6	nsubj	_	_
+3	agricolo agricoltura contadino scavare zappa zappare739.3	_	NOUN	S	_	2	obj	_	_
+4	TONARA	_	PROPN	S	SignType=@b	3	nmod	_	_
+5	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	6	nsubj	_	_
+6	andare-via andato153.3	_	VERB	V	RS=>	0	root	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 56
+# source_text = diceva Merziòro
+# text_tr_it =
+# text_gloss =
+1	persona personaggio personale726.1	_	NOUN	S	_	3	nmod	_	_
+2	figlio398.1	_	NOUN	S	_	3	nmod	_	_
+3	MERZIORO	_	PROPN	S	SignType=@b	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 57
+# source_text = E Taneddu il più giovane, un adolescente ancora bianco e sbarbato.
+# text_tr_it =
+# text_gloss =
+1	altro304.2	_	ADJ	A	_	2	amod	_	_
+2	TANEDDU	_	PROPN	S	SignType=@b	0	root	_	_
+3	giovane594.2_b	_	ADJ	A	_	2	amod	_	_
+4	anni età275.2	_	NOUN	S	_	3	obl	_	_
+5	basso130.1	_	ADJ	A	_	2	amod	_	_
+6	farsi-la-barba735.2	_	NOUN	S	_	2	amod	_	_
+7	bianco524.3	_	ADJ	A	_	2	amod	_	_
+8	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+9	divertente417.2	_	ADJ	D	_	2	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 58
+# source_text = Si divertiva a incidere una corredda per suo padre.
+# text_tr_it =
+# text_gloss =
+1	corredda_20024	_	NOUN	D	_	2	obj	_	_
+2	incidere_20025	_	VERB	V	_	0	root	_	_
+3	per_STS	_	ADP	E	_	4	case	_	_
+4	babbo(To) padre(To) papà(To)164.1	_	NOUN	S	_	2	obl	_	_
+5	suo243.2	_	DET	AP	_	4	det:poss	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 59
+# source_text = Vi disegnava un vaso di fiori e una colomba e diceva con malizia.
+# text_tr_it =
+# text_gloss =
+1	dipingere_STS	_	VERB	V	_	0	root	_	_
+2	vaso-di-fiori_STS	_	NOUN	S	_	1	obj	_	_
+3	colomba_STS	_	NOUN	S	_	4	obj	_	_
+4	dipingere_STS	_	VERB	V	_	1	advcl	_	_
+5	incidere_20025	_	VERB	V	_	1	conj	_	_
+6	dire202.2	_	VERB	V	_	1	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 60
+# source_text = "E' il caso di correre una notte davanti alla casa di Pauledda e battere il portone."
+# text_tr_it =
+# text_gloss =
+1	potere(v.)634.2	_	AUX	V	RS=<	2	aux	_	_
+2	correre (a)491.3	_	VERB	V	_	0	root	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+4	casa_b589.2_b	_	NOUN	S	_	2	obl	_	_
+5	PAULEDDA	_	PROPN	S	SignType=@b	4	nmod	_	_
+6	bussare_STS	_	VERB	V	_	2	conj	_	_
+7	dire202.2	_	VERB	V	_	6	conj	_	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 61
+# source_text =  "Fare finta d’esser rincorsi da un rivale."
+# text_tr_it =
+# text_gloss =
+1	avere c'è ci-sono104.3	_	AUX	V	_	2	aux	_	_
+2	inseguire seguire_b436.1	_	VERB	V	_	3	advcl	_	_
+3	me_STS	_	PRON	P	_	4	obj	_	_
+4	aiutare aiuto141.2	_	VERB	V	RS=>	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 62
+# source_text = "Troppo giovane sei per lei, figlio mio."
+# text_tr_it =
+# text_gloss =
+1	troppo263.2	_	ADV	B	RS=<	2	advmod	_	_
+2	giovane594.2_b	_	ADJ	A	RS=>	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 63
+# source_text = (L'interprete ripete la frase ma non il parlante)
+# text_tr_it =
+# text_gloss =
+1	mamma madre651.3	_	ADV	B	_	3	advmod	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+3	dire202.2	_	VERB	V	_	0	root	_	_
+4	tu233.3	_	PRON	P	_	3	obj	_	_
+5	giovane594.2_b	_	ADJ	A	_	4	amod	_	_
+6	troppo263.2	_	ADV	B	_	5	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 64
+# source_text = Intanto Merziòro rideva battendosi i pugni sulle ginocchia.
+# text_tr_it =
+# text_gloss =
+1	MERZIORO	_	PROPN	S	SignType=@b	2	nsubj	_	_
+2	ridere763.2	_	VERB	V	_	0	root	_	_
+3	ridere763.2	_	VERB	V	_	2	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 65
+# source_text = "Una donna ricca come Pauledda ha sempre quindici anni!"
+# text_tr_it =
+# text_gloss =
+1	ricco297.1	_	ADJ	A	RS=<	0	root	_	_
+2	PAULEDDA	_	PROPN	S	SignType=@b	1	nsubj	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+4	significa_STS	_	VERB	V	_	1	advcl	_	_
+5	sempre699.1_b	_	ADV	B	_	6	advmod	_	_
+6	anni età275.2	_	NOUN	S	_	4	obj	_	_
+7	quindici(1)_STS	_	NUM	N	RS=>	6	nummod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 66
+# source_text = Predu Paulu, il secondo dei figliastri, coi gomiti sulle ginocchia e il viso fra le mani, sputava fra le sue gambe aperte e taceva.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+2	altro304.2	_	ADJ	A	_	3	amod	_	_
+3	figlio398.1	_	NOUN	S	_	6	nsubj	_	_
+4	gomito_STS	_	NOUN	S	_	3	obj	_	_
+5	gomito_su_ginocchia	_	NOUN	S	SignType=@g	4	nmod	_	_
+6	sputare_STS	_	VERB	V	_	0	root	_	_
+7	gamba_STS	_	NOUN	S	_	6	nmod	_	_
+8	sputare_STS	_	VERB	V	_	6	root	_	_
+9	silenzio!203.3	_	ADJ	A	_	3	amod	_	_
+10	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+11	silenzio!203.3	_	ADJ	A	_	9	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 67
+# source_text = Era un sornione, Predu Paulu; agile e pallido come il fratello minore, aveva la barba nera e l’astuzia del fratello primogenito.
+# text_tr_it =
+# text_gloss =
+1	PREDUPAULU	_	PROPN	S	SignType=@b	0	root	_	_
+2	barba761.2	_	NOUN	S	_	1	nmod	_	_
+3	nero358.1	_	ADJ	A	_	2	amod	_	_
+4	furbizia furbo189.3	_	ADJ	A	_	1	amod	_	_
+5	primogenito_STS	_	ADJ	A	_	1	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 68
+# source_text = La matrigna chiacchierava.
+# text_tr_it =
+# text_gloss =
+1	mamma madre651.3	_	NOUN	S	_	2	nsubj	_	_
+2	spettegolare pettegolezzo chiacchiere_a363.1	_	VERB	V	_	0	root	_	_
+3	raccontare_c288.2_c	_	VERB	V	_	2	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 69
+# source_text = Le sue chiacchiere lo costringevano a pensare a Pauledda.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	pensare188.1	_	VERB	V	_	0	root	_	_
+3	PAULEDDA	_	PROPN	S	SignType=@b	2	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 70
+# source_text = Ricordava.
+# text_tr_it =
+# text_gloss =
+1	ricordare831.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 71
+# source_text = Una volta in paese straniero una donna lo aveva ospitato in casa sua, fasciandogli una ferita.
+# text_tr_it =
+# text_gloss =
+1	paese_b731.3_b	_	NOUN	S	RS=<	1	nmod	_	_
+2	fuori136.2	_	ADJ	A	_	1	amod	_	_
+3	donna femmina_B163.2	_	NOUN	S	_	5	nsubj	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+5	ospite invito invitare ricevimento benvenuto137.2	_	VERB	V	_	0	root	_	_
+6	me_STS	_	PRON	P	_	5	obj	_	_
+7	ferita_a ferito112.3	_	VERB	V	_	8	obj	_	_
+8	fasciare-ferita_20026	_	VERB	V	_	5	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 72
+# source_text = E pensava.
+# text_tr_it =
+# text_gloss =
+1	pensare188.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 73
+# source_text = "A saperlo! Andavo da Pauledda, che ha le mani molli."
+# text_tr_it =
+# text_gloss =
+1	sapere185.3	_	VERB	V	-	5	advcl	_	_
+2	fatto308.1	_	AUX	V	_	1	aux	_	_
+3	prima_a tempo-fa100.2	_	ADV	B	_	1	advmod	_	_
+4	me_STS	_	PRON	P	_	5	nsubj	_	_
+5	andare142.2	_	VERB	V	_	0	root	_	_
+6	PAULEDDA	_	PROPN	S	SignType=@b	5	nmod	_	_
+7	mano_STS	_	NOUN	S	_	6	nmod	_	_
+8	molle505.1	_	ADJ	A	_	7	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 74
+# source_text = "Mentre la mia ospite sembrava la madre dei venti, vecchia e scarmigliata com’era!"
+# text_tr_it =
+# text_gloss =
+1	invece247.3	_	ADV	B	_	2	advmod	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	0	root	_	_
+3	mamma madre651.3	_	NOUN	S	_	2	obj	_	_
+4	vento_a306.3	_	NOUN	S	_	3	nmod	_	_
+5	capelli-ricci_STS	_	NOUN	N	_	2	nmod	_	_
+6	vecchio96.1	_	ADJ	A	_	2	amod	_	_
+7	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	RS=>	2	nsubj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 75
+# source_text = Il portoncino era chiuso.
+# text_tr_it =
+# text_gloss =
+1	porta154.3	-	NOUN	S	_	3	nsubj	_	_
+2	SW-lì/ìà	_	ADV	B	_	1	amod	_	_
+3	chiudere chiusura155.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 76
+# source_text = A lei sembrava d’essere come una monaca nel suo chiostro.
+# text_tr_it =
+# text_gloss =
+1	dentro all'interno585.1	_	ADV	A	_	0	root	_	_
+2	uguale245.2	_	ADP	E	_	1	case	_	_
+3	suora_A79.1	_	NOUN	S	_	2	obj	_	_
+4	circondare_STS	_	VERB	V	_	1	advmod	_	_
+5	muro109.3	_	NOUN	S	_	4	obl	_	_
+6	casa_b589.2_b	_	NOUN	S	_	5	nmod	_	_
+7	muro109.3	_	NOUN	S	_	5	obl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 77
+# source_text = La casa che guardava sul monte. Il rumore del mondo le arrivava di lontano, come il rombo del mare o del vento nel bosco.
+# text_tr_it =
+# text_gloss =
+1	vicino123.2	_	ADV	B	_	2	advmod	_	_
+2	vedere361.1	_	VERB	V	_	0	root	_	_
+3	montagna(2)_STS	_	NOUN	S	_	2	obj	_	_
+4	rumore763.1	_	NOUN	S	_	6	nsubj	_	_
+5	fuori136.2	_	ADV	B	_	4	advmod	_	_
+6	lontano400.2	_	ADV	B	_	5	advmod	_	_
+7	mare316.3	_	ADJ	A	_	4	nsubj	_	_
+8	vento_a306.3	_	NOUN	S	_	7	conj	_	_
+9	sentire sordo(b)198.2	_	VERB	V	_	2	advcl	_	_
+10	lontano400.2	_	ADV	B	_	9	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 78
+# source_text = Si sentiva al sicuro.
+# text_tr_it =
+# text_gloss =
+1	certo(a) sicuro ufficiale(agg.)(b)691.3	_	ADJ	A	-	2	amod	_	_
+2	nascondersi116.3	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 79
+# source_text = Il vento soffiava, infatti, in quei tiepidi pomeriggi primaverili, ma non turbava la quiete del cortile.
+# text_tr_it =
+# text_gloss =
+1	vento_a306.3	_	NOUN	S	_	5	obj	_	_
+2	pomeriggio dodici364.3_c	_	NOUN	S	_	1	nmod	_	_
+3	aria primavera289.1	_	ADJ	A	_	2	amod	_	_
+4	vento_a306.3	_	NOUN	S	_	1	obj	_	_
+5	sentire sordo(b)198.2	_	VERB	V	_	0	root	_	_
+6	calma156.3	_	ADJ	A	_	5	amod	_	_
+7	tranquillo339.2	_	ADJ	A	_	5	amod	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 80
+# source_text = Passava al disopra, il vento, agitando le foglie verdoline del pergolato gialle di sole, pallide d’ombra, folli di vita e di passione.
+# text_tr_it =
+# text_gloss =
+1	cortile_STS	_	NOUN	S	-	3	nmod	_	_
+2	fuori136.2	_	ADV	B	_	1	advmod	_	_
+3	vento_a306.3	_	NOUN	S	_	0	root	_	_
+4	foglia(a)513.1	_	NOUN	S	_	3	obj	_	_
+5	tetto casa(b)133.2_b	_	NOUN	S	-	6	nmod	_	_
+6	casa_b589.2_b	_	NOUN	S	_	3	nmod	_	_
+7	vento_a306.3	_	NOUN	S	_	3	nsubj	_	_
+8	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	4	det	_	_
+9	abbassare_STS	_	VERB	V	_	4	advmod	_	_
+10	movimento-foglie_20027	_	VERB	V	-	9	conj	_	_
+11	giallo(4)_STS	_	ADJ	A	-	4	amod	_	_
+12	ombra284.3	_	NOUN	S	_	14	nmod	_	_
+13	sole257.2_c	_	NOUN	S	_	14	nmod	_	_
+14	(illuminare)luce_c472.1	_	VERB	V	_	4	advmod	_	_
+15	vita367.3	_	NOUN	S	_	17	nmod	_	_
+16	passione293.2	_	NOUN	S	_	15	conj	_	_
+17	mescolare_STS	_	VERB	V	_	4	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 81
+# source_text = Erano sempre attaccate al tralcio scuro, come gli uomini alla loro sorte.
+# text_tr_it =
+# text_gloss =
+1	attaccato_20028	_	VERB	V	_	0	root	_	_
+2	foglia(a)513.1	_	DET	DI	_	4	nsubj	_	_
+3	uguale245.2	_	ADP	E	_	4	case	_	_
+4	uomo_STS	_	NOUN	S	_	5	obl	_	_
+5	legato(2)_STS	_	VERB	V	_	1	advcl	_	_
+6	destino_STS	_	NOUN	N	_	5	obl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 82
+# source_text = Il vento passava portandosi via i profumi della siepe e il garrire delle rondini.
+# text_tr_it =
+# text_gloss =
+1	profumo_20029	_	NOUN	S	_	2	nsubj	_	_
+2	cortile_STS	_	NOUN	S	_	0	root	_	_
+3	uccello_20017	_	NOUN	S	_	4	obj	_	_
+4	aereo volare346.3+CL(B)	_	VERB	V	_	2	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 83
+# source_text = E le ore passavano.
+# text_tr_it =
+# text_gloss =
+1	ora orologio213.1	_	NOUN	S	_	2	nmod	_	_
+2	cucire570.1	_	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 84
+# source_text = Portandosi via le speranze e gli affanni della gente.
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	RS=<	6	nsubj	_	_
+2	dentro all'interno585.1	_	ADV	B	_	1	advmod	_	_
+3	(speranza)sperare_b292.1_b	_	NOUN	S	_	6	nmod	_	_
+4	fatica faticoso285.1	_	NOUN	S	_	3	conj	_	_
+5	tempo220.2	_	NOUN	S	_	6	obj	_	_
+6	passare 115.2_b	_	VERB	V	RS=>	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 85
+# source_text = Piangevano la morte e passione di Nostro Signor Gesù Cristo.
+# text_tr_it =
+# text_gloss =
+1	piangere190.2_b	_	VERB	V	_	0	root	_	_
+2	passione293.2	_	NOUN	S	_	1	obj	_	_
+3	Gesù Cristo276.2	_	PROPN	S	_	3	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 86
+# source_text = Zio Felix il vecchio contadino che potava gratis tutti i pergolati e le piante degli orti dei suoi conoscenti.
+# text_tr_it =
+# text_gloss =
+1	uno225.1		NUM	N	_	2	nummod	_	_
+2	zio205.2	_	NOUN	S	_	0	root	_	_
+3	FELIX	_	PROPN	S	SignType=@b	2	flat:name	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+5	venire_STS	_	VERB	V	_	2	advcl	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	4	det	_	_
+7	essere capace essere in grado561.1	_	AUX	V	_	8	AUX	_	_
+8	tagliare-con-le-forbici383.1	_	VERB	V	_	5	xcomp	_	_
+9	pianta_20030	_	NOUN	S	_	8	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 87
+# source_text = Andava e tagliava le piante.
+# text_tr_it =
+# text_gloss =
+1	andare142.2	_	VERB	V	_	0	root	_	_
+2	tagliare-con-le-forbici383.1	_	VERB	V	_	1	advcl	_	_
+3	tutto(1)_STS	_	PRON	P	_	2	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 88
+# source_text = Erano le madrine dei fratelli morti
+# text_tr_it =
+# text_gloss =
+1	mamma madre651.3	_	NOUN	S	_	0	root	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+3	figlio398.1	_	NOUN	S	_	1	nmod	_	_
+4	fratello245.1	_	NOUN	S	_	1	nmod	_	_
+5	morto175.2	_	ADJ	A	_	4	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 89
+# source_text = Erano le coetanee di questa, tutte prioresse delle feste religiose del paese e della campagna
+# text_tr_it =
+# text_gloss =
+1	ospite invito invitare ricevimento benvenuto137.2	_	VERB	S	_	0	root	_	_
+2	altro304.2	_	ADJ	A	_	4	amod	_	_
+3	persona personaggio personale726.1	_	NOUN	S	_	2	nsubj	_	_
+4	donna femmina_B163.2	_	NOUN	S	_	4	nmod	_	_
+5	ospite invito invitare ricevimento benvenuto137.2	_	VERB	V	@RDP=true	2	advcl	_	_
+6	ESSERE_IN_CERCHIO	_	NOUN	S	_	4	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 90
+# source_text = I discorsi erano innocenti, allegri.
+# text_tr_it =
+# text_gloss =
+1	spettegolare pettegolezzo chiacchiere_a363.1	_	VERB	S	_	0	root	_	_
+2	semplice274.3_b	_	ADJ	A	_	1	amod	_	_
+3	allegro295.1	_	ADJ	A	_	2	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 91
+# source_text = Le zie anziane e Pauledda erano tranquille.
+# text_tr_it =
+# text_gloss =
+1	zio205.2	_	NOUN	S	_	4	nsubj	_	_
+2	vecchio96.1	_	ADJ	A	_	1	amod	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+4	PAULEDDA	_	PROPN	N	SignType=@b	1	obj	_	_
+5	tranquillo339.2	_	ADJ	A	_	4	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 92
+# source_text =  "Uno, quello che si crede Andria Maronzu perché gli rassomiglia."
+# text_tr_it =
+# text_gloss =
+1	uguale245.2	_	ADJ	A	_	2	amod	_	_
+2	ANDRIA MARONZU	_	PROPN	S	SignType=@b	3	obl	_	_
+3	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	4	nsubj	_	_
+4	somigliare_STS+CL(S)	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 93
+# source_text = "Una vedova, ricca, che però non vuole sposarlo."
+# text_tr_it =
+# text_gloss =
+1	vedovo_20007	_	NOUN	S	_	0	root	_	_
+2	ricco297.1	_	ADJ	A	_	1	amod	_	_
+3	anello marito matrimonio moglie824.2	_	VERB	V	_	1	acl:recl	_	_
+4	no231.2	_	ADV	B	_	3	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 94
+# source_text = Pauledda serviva il caffè, e le tazzine tremarono sul vassoio.
+# text_tr_it =
+# text_gloss =
+1	PAULEDDA	_	PROPN	S	SignType=@b	4	nsubj	_	_
+2	caffè(a)561.3_c	_	NOUN	S	_	3	obj	_	_
+3	vassoio_STS	_	NOUN	S	_	2	nmod	_	_
+4	tremare_STS+CL(5#)	_	VERB	V	RS=<|>	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 95
+# source_text = La vecchia zia concluse.
+# text_tr_it =
+# text_gloss =
+1	zio205.2	_	NOUN	S	_	2	nsubj	_	_
+2	raccontare_c288.2_c	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 96
+# source_text = "Andate, andate a confessarvi! Che modo di parlare è questo?"
+# text_tr_it =
+# text_gloss =
+1	andare142.2	_	VERB	V	RS=<	3	advcl	_	_
+2	pregare	pregare	VERB	V	_	1	xcomp	_	_
+3	parlare(b)534.2	_	VERB	V	_	0	root	_	_
+4	tu233.3	_	PRON	P	_	3	nsubj	_	_
+5	così_STS	_	ADV	B	_	3	advmod	_	_
+6	no231.2	_	ADV	BN	RS=>	5	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 97
+# source_text = "Tutto, fuorché il peccato mortale."
+# text_tr_it =
+# text_gloss =
+1	peccato_20032	_	VERB	V	_	0	root	_	_
+2	morto175.2	_	NOUN	S	_	1	nmod	_	_
+3	no231.2	_	ADV	BN	_	1	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 98
+# source_text = Pensava alla ricca vedova del paese vicino.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	pensare188.1	_	VERB	V	_	0	root	_	_
+3	donna femmina_B163.2	_	NOUN	S	_	2	obj	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+5	vicino123.2	_	ADV	B	_	3	advcl	_	_
+6	fuori136.2	_	ADV	B	_	5	conj	_	_
+7	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	4	det	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 99
+# source_text = Le dava quella sera un vago rimpianto d’amore.
+# text_tr_it =
+# text_gloss =
+1	pensare188.1	_	VERB	V	_	0	root	_	_
+2	amare amore293.3	_	NOUN	S	_	3	obj	_	_
+3	desiderare piacere preferire volere288.1	_	VERB	V	_	1	xcomp	_	_
+4	molto-tempo-fa100.3	_	ADV	B	_	3	obj	_	_
+5	pensare188.1	_	VERB	V	_	1	advcl	_	_
+6	bambino138.1	_	NOUN	S	_	3	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 100
+# source_text = Tempo prima, nelle notti di luna, mentre tutti in casa dormivano qualcuno passava fuori di corsa.
+# text_tr_it =
+# text_gloss =
+1	molto-tempo-fa100.3	_	ADV	B	_	2	advmod	_	_
+2	sera(b)504.1	_	NOUN	S	_	8	nmod	_	_
+3	luna_20014	_	NOUN	S	_	5	nmod	_	_
+4	celeste cielo385.3	_	NOUN	S	_	3	nmod	_	_
+5	casa_b589.2_b	_	NOUN	S	_	6	nmod	_	_
+6	persona personaggio personale726.1	_	NOUN	S	_	2	nsubj	_	_
+7	tutto_STS	_	DET	D	_	6	det	_	_
+8	dormire	_	VERB	V	_	0	root	_	_
+9	sentire sordo(b)198.2	_	VERB	V	_	8	ccomp	_	_
+10	fuori136.2	_	ADV	B	_	9	advmod	_	_
+11	veloce490.3	_	ADJ	A	_	12	amod	_	_
+12	correre (a)491.3	_	VERB	V	_	9	ccomp	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 101
+# source_text = Allora come adesso la notte di giugno era dolce, piena di mistero e di poesia.
+# text_tr_it =
+# text_gloss =
+1	molto-tempo-fa100.3	_	ADV	B	_	2	advmod	_	_
+2	ora-(avv.)130.3_f	_	ADV	B	_	1	conj	_	_
+3	giugno_a653.3_c	_	PROPN	S	_	0	root	_	_
+4	mese214.2	_	NOUN	S	_	3	nmod	_	_
+5	tempo573.1+CL(1)	_	NOUN	S	_	3	obj	_	_
+6	dolce611.3	_	ADJ	A	_	5	amod	_	_
+7	misterioso_20016	_	ADJ	A	_	6	conj	_	_
+8	poesia_STS	_	ADJ	A	_	7	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 102
+# source_text = A un tratto parve a Pauledda che un tumulto risuonasse in lontananza.
+# text_tr_it =
+# text_gloss =
+1	sentire sordo(b)198.2	_	VERB	V	_	2	advcl	_	_
+2	rumore763.1	-	NOUN	S	_	0	root	_	_
+3	gridare719.1	_	NOUN	S	_	2	nmod	_	_
+4	scomparire sparire615.2	_	VERB	V	_	2	advcl	_	_
+5	coro_20033	_	NOUN	S	_	4	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 103
+# source_text = La voce che cantava s’era come sciolta in aria e l’accompagnamento corale si mutava in grida rauche. 
+# text_tr_it =
+# text_gloss =
+1	diventare trasformare313.1	_	VERB	V	_	3	advcl	_	_
+2	gridare719.1	_	NOUN	S	_	1	nsubj	_	_
+3	baruffa litigare352.2	_	NOUN	S	_	0	root	_	_
+4	nemici229.2	_	NOUN	S	_	3	nmod	_	_
+5	baruffa litigare352.2	_	NOUN	S	_	3	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 104
+# source_text = Rispose:
+# text_tr_it =
+# text_gloss =
+1	rispondere365.1_b	_	VERB	V	_	0	root	_	SpacesAfter=\s\n\n
+
+ # sent_id = 105
+# source_text = "Chi sei?!"
+# text_tr_it =
+# text_gloss =
+1	chi206.1	_	PRON	P	RS=3b<	0	root	_	_
+2	tu233.3	_	PRON	P	RS=>3a	1	nsubj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 106
+# source_text = "Aprimi, Paulè, salva un cristiano.... Son morto.... presto, presto, m’inseguono...."
+# text_tr_it =
+# text_gloss =
+1	aperto aprire153.2	_	VERB	V	RS=3a<|@RDP=true	3	advcl	_	_
+2	io212.3	_	PRON	P	_	3	nsubj	_	_
+3	salvare(1)_STS	_	VERB	V	_	0	root	_	_
+4	io212.3	_	PRON	P	_	2	nsubj	_	_
+5	morto175.2	_	ADJ	A	_	4	amod	_	_
+6	fretta presto152.2_c	_	INTJ	I	_	3	advcl	_	_
+7	aperto aprire153.2	_	VERB	V	_	1	advcl	_	_
+8	avere c'è ci-sono104.3	_	AUX	V	_	9	aux	_	_
+9	inseguire seguire_b436.1	_	VERB	V	_	3	ccomp	_	_
+10	me_STS	_	PRON	P	RS=>3b	9	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 107
+# source_text = Ella aprì e l’uomo precipitò dentro, cadendo.ù
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+2	donna femmina_B163.2	_	NOUN	V	_	3	nsubj	_	_
+3	aperto aprire153.2	_	VERB	V	-	0	root	_	_
+4	uomo_STS	_	NOUN	S	_	5	nsubj	_	_
+5	cadere370.1	_	VERB	V	_	3	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 108
+# source_text = L'uomo cadde lungo il muro al quale appoggiò la mano tentando di risollevarsi.
+# text_tr_it =
+# text_gloss =
+1	muro109.3	_	ADV	B	_	2	obl	_	_
+2	poggiare-mano_20034	_	VERB	V	_	0	root	_	_
+3	muro109.3	_	ADJ	A	_	1	obl	_	_
+4	salire_STS+CL(1)	_	VERB	V	_	2	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 109
+# source_text = Pauledda richiudeva il portoncino.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	_	NOUN	S	_	3	nsubj	_	_
+2	porta154.3	_	NOUN	S	RS=3a<	3	obj	_	_
+3	chiudere chiusura155.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 110
+# source_text = Non abbassava il gancio, pronta a riaprirlo se occorreva.
+# text_tr_it =
+# text_gloss =
+1	gancio-da-traino_STS	_	NOUN	S	_	4	nsubj	_	_
+2	se(b)459.1	_	SCONJ	CS	_	3	mark	_	_
+3	serve425.1	_	VERB	V	_	4	advcl	_	_
+4	aperto aprire153.2	_	VERB	V	RS=>3b	1	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 111
+# source_text = Ella aveva l’impressione che qualche cosa di straordinario accadesse.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	_	NOUN	S	_	3	nsubj	_	_
+2	dovere21.2_b	_	VERB	V	_	1	advcl	_	_
+3	succedere_20035	_	VERB	V	_	0	root	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	3	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 112
+# source_text = Tuttavia, non era l’avventura romantica sognata da lei fanciulla.
+# text_tr_it =
+# text_gloss =
+1	molto-tempo-fa100.3	_	ADV	B	_	2	amod	_	_
+2	pensare188.1	_	VERB	V	_	0	root	_	_
+3	come306.1	_	ADJ	A	_	2	case	_	_
+4	no231.2	_	ADV	B	_	3	advmod	_	_
+5	differente differenza diverso244.1	_	ADJ	A	_	3	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 113
+# source_text = Gli chiese:
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	chiedere domandare592.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 114
+# source_text = "Che è accaduto? Sei ferito?"
+# text_tr_it =
+# text_gloss =
+1	ferita_a ferito112.3	_	VERB	V	RS=3a<	0	root	_	_
+2	tu233.3	_	PRON	P	_	1	nsubj	RS=>3b	SpacesAfter=\n\n
+
+ 
+# sent_id = 115
+# source_text = "Perché l’hai ferito?"
+# text_tr_it =
+# text_gloss =
+1	tu233.3	_	PRON	P	RS=3a<	2	nsubj	_	_
+2	ferita_a ferito112.3	_	VERB	V	_	0	root	_	_
+3	perchè(a)589.3_e	_	SCONJ	CS	_	2	mark	_	_
+4	pugnalare_STS	_	VERB	V	_	2	advcl	_	_
+5	perchè(a)589.3_e	_	SCONJ	CS	RS=>3b	4	mark	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 116
+# source_text = "Dammi un po’ d’acqua, per l’anima tua, Paulè; dammela..."
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	RS=3b<	3	nsubj	_	_
+2	favore-per90.1	_	ADV	S	_	3	5	_	_
+3	acqua287.2	_	VERB	V	_	5	obj	_	_
+4	acqua287.2	_	VERB	V	_	3	obj	_	_
+5	dare591.1	_	VERB	V	RS=>3a	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 117
+# source_text = "La brocca è lì, sulla panca; prenditela...."
+# text_tr_it =
+# text_gloss =
+1	andare142.2	_	VERB	V	RS=3a<	0	root	_	_
+2	tavolo(b)158.3	_	NOUN	S	_	3	nmod	_	_
+3	vaso263.1	_	NOUN	S	_	1	obj	_	_
+4	acqua287.2	_	NOUN	S	_	3	nmod	_	_
+5	andare142.2	_	VERB	V	_	1	advcl	_	_
+6	prendere545.2	_	VERB	V	RS=>3b	4	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 118
+# source_text = Egli s’era alzato, sano e salvo, e bevette.
+# text_tr_it =
+# text_gloss =
+1	uomo_STS	_	NOUN	S	_	2	nsubj	_	_
+2	alzarsi369.2	_	VERB	V	_	0	root	_	_
+3	salvare(1)_STS	_	ADJ	A	_	1	amod	_	_
+4	prendere545.2	_	VERB	V	_	2	advcl	_	_
+5	bere424.1	_	VERB	V	_	4	conj	_	_
+6	acqua287.2	_	NOUN	S	RS=<|>	5	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 119
+# source_text = L’uomo s’era seduto sotto il pergolato e diceva:
+# text_tr_it =
+# text_gloss =
+1	uomo_STS	_	NOUN	S	_	2	nsubj	_	_
+2	sedersi sedia_D351.3_d+CL(5)	_	VERB	V	_	0	root	_	_
+3	tetto casa(b)133.2_b	_	NOUN	S	_	2	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 120
+# source_text = "Ma che hai paura, che tieni il portone in mano?"
+# text_tr_it =
+# text_gloss =
+1	grazie_A99.3	_	NOUN	S	RS=3b<	3	nmod	_	_
+2	grazie_A99.3	_	NOUN	A	_	1	nmod	_	_
+3	ospite invito invitare ricevimento benvenuto137.2	_	VERB	V	_	0	root	_	_
+4	tu233.3	_	PRON	P	_	3	nsubj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 121
+# source_text = "Vieni." 
+# text_tr_it =
+# text_gloss =
+1	chiamare140.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+
+# sent_id = 122
+# source_text = "Siediti."
+# text_tr_it =
+# text_gloss =
+1	sedersi sedia_D351.3_d+CL(B)	_	VERB	V	_	0	root	_	_
+2	con (b) insieme528.2	_	ADV	B	_	3	case	_	_
+3	me_STS	_	PRON	P	RS=>3a	1	obl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 123
+# source_text = "Ora mi toccherà di nascondermi, per un po’ di tempo."
+# text_tr_it =
+# text_gloss =
+1	ora-(avv.)130.3_f	_	ADV	B	RS=3b<	3	advmod	_	_
+2	dovere21.2_b	_	AUX	V	_	3	aux	_	_
+3	nascondersi116.3	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 124
+# source_text = "La giustizia è buona, ma è meglio guardarla da lontano, come il mare."
+# text_tr_it =
+# text_gloss =
+1	giustizia_diz_oraz	_	NOUN	S	_	4	nsubj	_	_
+2	meglio migliore195.3	_	ADV	B	_	1	advmod	_	_
+3	lontano400.2	_	ADV	B	_	1	advmod	_	_
+4	andare-via andato153.3	_	AUX	V	_	0	root	_	_
+5	nascondersi116.3	_	VERB	V	_	4	xcomp	_	_
+6	meglio migliore195.3	_	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 125
+# source_text = "Se tu potessi tenermi qui..."
+# text_tr_it =
+# text_gloss =
+1	se (b)459.1	_	SCONJ	CS	_	4	mark	_	_
+2	tu233.3	_	PRON	P	_	4	nsubj	_	_
+3	potere(v.)634.2	_	AUX	V	_	4	aux	_	_
+4	aiutare aiuto141.2	_	VERB	V	_	0	root	_	_
+5	nascondersi116.3	_	VERB	V	_	4	xcomp	_	_
+6	casa_b589.2_b	_	NOUN	S	_	5	obl	_	_
+7	tuo234.3	_	DET	AP	RS=>3a	6	det:poss	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 126
+# source_text = " Una donna sola?"
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	RS=3a<	2	nsubj	_	_
+2	donna femmina_B163.2	_	NOUN	S	_	0	root	_	_
+3	celibe nubile scapolo solo-da vedovo428.3	_	ADJ	A	_	2	amod	_	_
+4	no231.2	_	ADV	BN	RS=>3b	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 127
+# source_text = "Sarò come un tuo fratello..."
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	RS=3b<	2	nsubj	_	_
+2	fratello245.1	_	VERB	V	RS=>3a	0	root	_	SpacesAfter=\n\n
+ 
+# sent_id = 128
+# source_text = ma passarono alcuni istanti prima che una voce bassa e supplichevole chiamasse:
+# text_tr_it =
+# text_gloss =
+1	sentire sordo(b)198.2	_	VERB	V	_	0	root	_	_
+2	(voce)gridare719.1	_	NOUN	S	_	1	obj	_	_
+3	(bassa)calmo lento piano302.2	_	ADJ	A	_	2	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 129
+# source_text = "Pauledda!"
+# text_tr_it =
+# text_gloss =
+1	chiamare140.2	_	VERB	V	_	0	root	_	_
+2	PAULEDDA	_	PROPN	P	SignType=@b	1	vocative	_	_
+3	sentire sordo(b)198.2	_	VERB	V	_	1	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 130
+# source_text = Ella era balzata di nuovo in piedi, tremando. 
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	_	NOUN	S	RS=3a<	2	nsubj	_	_
+2	alzarsi369.2	_	VERB	V	_	0	root	_	_
+3	paura638.3	_	ADJ	B	_	2	amod	_	SpacesAfter=\n\n
+
+# sent_id = 131
+# source_text = "L’inseguitore di Merziòro?" 
+# text_tr_it =
+# text_gloss =
+1	forse313.3	_	ADV	B	_	2	advmod	_	_
+2	inseguire seguire_b436.1	_	NOUN	S	_	0	root	_	_
+3	MERZIORO	_	PROPN	P	RS=>3b|SignType=@b	2	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 132
+# source_text = "Non aprire, per Dio"
+# text_tr_it =
+# text_gloss =
+1	no231.2	_	ADV	BN	RS=3b<	2	advmod	_	_
+2	aperto aprire153.2	_	VERB	V	_	0	root	_	_
+3	no231.2	_	ADV	BN	RS=>3a	1	advmod	_	SpacesAfter=\n\n
+ 
+# sent_id = 133
+# source_text = La tirava per la tunica.
+1	tirare673.1	_	VERB	V	RS=3b<	0	root	_	_
+2	no231.2	_	ADV	BN	RS=>3a	1	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 134
+# source_text = Ma ella cercava di liberarsi e di slanciarsi verso il portoncino.
+# text_tr_it =
+# text_gloss =
+1	spingere307.1	_	VERB	V	RS=3a<	0	root	_	_
+2	andare142.2	_	VERB	V	RS=>3b	1	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 135
+# source_text = Intanto quello di fuori insisteva, alzando la voce:
+# text_tr_it =
+# text_gloss =
+1	fuori136.2	_	ADV	B	_	2	advmod	_	_
+2	gridare719.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 136
+# source_text = "Paulè"
+# text_tr_it =
+# text_gloss =
+1	PAULEDDA	_	NOUN	S	SignType=@b	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 137
+# source_text = "Sei ancora alzata?"
+# text_tr_it =
+# text_gloss =
+1	alzarsi369.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 138
+# source_text = "Aprimi, per l’amor di Dio, salvami da un pericolo... Paulè..."
+# text_tr_it =
+# text_gloss =
+1	favore-per90.1	_	ADV	B	RS=3b<	2	advmod	_	_
+2	aperto aprire153.2	_	VERB	V	_	0	root	_	_
+3	salvare(1)_STS	_	VERB	V	_	2	conj	_	_
+4	avere c'è ci-sono104.3	_	VERB	V	_	2	advcl	_	_
+5	(pericolo)pericoloso236.2	_	NOUN	S	_	4	obj	_	_
+6	salvare(1)_STS	_	VERB	V	RS=>3a	3	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 139
+# source_text = "Mala fata ti guidi."
+# text_tr_it =
+# text_gloss =
+1	MALA FATA	_	PROPN	S	SignType=@b	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 140
+# source_text = Riconoscendo la voce del fratello minore.
+# text_tr_it =
+# text_gloss =
+1	tu233.3	_	PRON	P	_	2	nmod	_	_
+2	(errore)PAULEDDU	_	NSUBJ	S	SignType=@b	3	nsubj	_	_
+3	fratello245.1	_	NOUN	S	_	2	nmod	_	_
+4	basso130.1	_	ADJ	A	-	3	amod	_	_
+5	riconoscere_STS	_	VERB	V	_	2	advcl	_	_
+6	tu233.3	_	PRON	P	_	1	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 141
+# source_text = "Che cosa cerchi qui, Tanè?"
+# text_tr_it =
+# text_gloss =
+1	tu233.3	_	PRON	P	_	2	nsubj	_	_
+2	fare_20036	_	VERB	V	_	0	root	_	_
+3	qui(a)130.3_d	_	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 142
+# source_text = E questi, al di fuori, tacque sbalordito.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	-	2	nsubj	_	_
+2	silenzio!203.3	_	NOUN	S	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 143
+# source_text = Poi si mise a ridere.
+# text_tr_it =
+# text_gloss =
+1	dopo240.1_b	_	ADV	B	_	2	amod	_	_
+2	ridere763.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 144
+# source_text = Pauledda si offese.
+# text_tr_it =
+# text_gloss =
+1	donna femmina_B163.2	_	NOUN	S	_	2	nmod	_	_
+2	PAULEDDA	_	PROPN	S	SignType=@b	0	root	_	_
+3	offesa offeso offendere_a715.2	_	ADJ	A	_	2	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 145
+# source_text = "Entra, Tanè, è aperto!"
+# text_tr_it =
+# text_gloss =
+1	ospite invito invitare ricevimento benvenuto137.2	_	NOUN	S	_	2	obj	_	_
+2	chiamare140.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 146
+# source_text = L’altro spinse il portoncino al quale ella non aveva rimesso il gancio.
+# text_tr_it =
+# text_gloss =
+1	porta154.3	_	NOUN	S	_	2	nmod	_	_
+2	gancio-da-traino_STS	_	NOUN	S	_	6	nsubj	_	_
+3	prima_a tempo-fa100.2	_	ADV	B	_	6	advmod	_	_
+4	no231.2	_	ADV	BN	_	2	advmod		_	_
+5	gancio-da-traino_STS	_	NOUN	S	_	2	nsubj	_	_
+6	aperto aprire153.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 147
+# source_text = Entrò.
+# text_tr_it =
+# text_gloss =
+1	venire_STS	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 148
+# source_text = I tre si misero a ridere.
+# text_tr_it =
+# text_gloss =
+1	noi-tre350.2	_	PRON	P	_	2	nsubj	_	_
+2	ridere763.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 149
+# source_text = Scherzavano sul caso curiosissimo che aveva spinto i due fratelli a tentare nella medesima sera lo stesso trucco.
+# text_tr_it =
+# text_gloss =
+1	entrambi(2)_STS	_	DET	D	_	2	det	_	_
+2	fratello245.1	_	PRON	P	_	3	nsubj	_	_
+3	provare	provare	VERB	V	_	0	root	_	_
+4	ora-(avv.)130.3_f	_	ADV	B	_	3	advmod	_	_
+5	come-prima come-al-solito-sempre-uguale223.3	_	ADJ	A	_	6	amod	_	_
+6	trucco_STS	_	NOUN	S	_	3	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 150
+# source_text = La donna andò a prendere un boccale di vino e versò loro da bere dicendo.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+2	donna femmina_B163.2	_	NOUN	S	_	6	nsubj	_	_
+3	donna femmina_B163.2	_	NOUN	S	_	2	nmod	_	_
+4	vino423.3_b	_	NOUN	S	_	6	obj	_	_
+5	andare142.2	_	VERB	V	_	6	xcomp	_	_
+6	prendere545.2	_	VERB	V	_	0	root	_	_
+7	versare435.2	_	VERB	V	_	6	conj	_	_
+8	dire202.2	_	VERB	V	_	7	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 151
+# source_text = "Fosse pure stato stasera e domani sera non mi burlavate."
+# text_tr_it =
+# text_gloss =
+1	(questa)ora-(avv.)130.3_f	_	DET	D	RS=<	2	det	_	_
+2	sera87.1	_	NOUN	S	_	6	nmod	_	_
+3	o_STS	_	CCONJ	CC	_	4	cc	_	_
+4	domani_1231.3	_	ADV	B	_	2	conj	_	_
+5	niente-non-fa95.1	_	ADV	B	_	6	amod	_	_
+6	prendere-in-giro665.3	_	VERB	V	_	0	root	_	_
+7	me_STS	_	PRON	P	_	6	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 152
+# source_text = "Vi manca l’astuzia per simili cose, fratelli miei."
+# text_tr_it =
+# text_gloss =
+1	assente mancare privo senza_C192.3	_	VERB	V	_	0	root	_	_
+2	furbizia furbo189.3	_	NOUN	S	_	1	obj	_	_
+3	assente mancare privo senza_C192.3	_	VERB	V	_	1	amod	_	_
+4	tutti-e-due voi-due_b380.2_b	_	PRON	P	_	3	nsubj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 153
+# source_text = "Fosse stato vostro fratello Predu Paulu! Lui avrebbe fatto meglio!"
+# text_tr_it =
+# text_gloss =
+1	fratello245.1	_	NOUN	S	_	3	nmod	_	_
+2	altro304.2	_	ADJ	A	_	1	amod	_	_
+3	PREDUPAULU	_	PROPN	P	SignType=@b	0	root	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+5	bravo337.3	_	ADJ	A	_	3	amod	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	RS=>	4	det	_	SpacesAfter=\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+
+RS=# newdoc
+ 
+ 
+ 
+# sent_id = 154
+# source_text = Fosse pure un partito scadente, rifiutando la sua domanda le facevano quasi un'offesa personale.
+# text_tr_it =
+# text_gloss =
+1	se(b)459.1	_	CONJ	C	_	2	mark	_	_
+2	uomo_STS	_	NOUN	S	_	5	obj	_	_
+3	medio quasi simile 313.2	_	ADJ	A	_	2	amod	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	5	nsubj	_	_
+5	accettare778.1	_	VERB	V	_	0	root	_	_
+6	perché per-quale-motivo730.3	_	SCONJ	CS	_	5	mark	_	_
+7	rifiuto_STS	_	VERB	V	_	5	advcl	_	_
+8	offesa offeso offendere_a715.2	_	NOUN	S	_	7	obj	_	_
+9	personale_20010	_	ADJ	A	_	8	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 155
+# source_text = Sono abituata a viver sola e non posso sopportare la compagnia di nessuno.
+# text_tr_it =
+# text_gloss =
+1	oggi228.3	_	ADV	B	RS=<	2	advmod	_	_
+2	abituato allenamento esperienza118.1	_	VERB	V	_	0	root	_	_
+3	celibe nubile scapolo solo-da vedovo428.3	_	ADJ	A	_	2	amod	_	_
+4	collega compagno595.3	_	NOUN	S	_	5	obj	_	_
+5	sopportare mandare-giù582.3+CL(B)	_	VERB	V	_	2	advcl	_	_
+6	no321.2	_	ADV	BN	RS=>	5	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 156
+# source_text = Ricordo che eravamo dieci in famiglia, sette fratelli e tre sorelle.
+# text_tr_it =
+# text_gloss =
+1	ricordare831.1	_	VERB	V	RS=<	0	root	_	_
+2	molto-tempo-fa100.3	_	ADV	B	_	1	advmod	_	_
+3	bambino138.1	_	NOUN	S	_	4	obj	_	_
+4	famiglia300.2	_	NOUN	S	_	3	nmod	_	_
+5	dieci_STS	_	NUM	N	_	4	nummod	_	_
+6	sette_STS	_	NUM	N	_	7	nummod	_	_
+7	fratello245.1	_	NOUN	S	_	3	nmod	_	_
+8	tre_STS	_	NUM	N	_	9	nummod	_	_
+9	sorella429.2	_	NOUN	S	RS=>	3	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 157
+# source_text = Io passavo la vita a lavorare e pensavo cose da piccola creatura, pensavo: se i mie compaesani non mi vogliono verrà forse uno straniero. un ospite bello e ricco che si innamorerà di me.
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	RS=<	2	nsubj	_	_
+2	vita367.3	_	NOUN	S	_	3	obj	_	_
+3	lavorare lavoro630.1	_	VERB	V	_	0	root	_	_
+4	concentrarsi occuparsi80.2	_	ADV	B	_	1	advmod	_	_
+5	pensare188.1	_	VERB	V	_	1	advcl	_	_
+6	semplice274.3_b	_	ADV	B	_	5	advmod	_	_
+7	pensare188.1	_	VERB	V	_	1	advcl	_	_
+8	uomo_STS	_	NOUN	S	_	11	obj	_	_
+9	paese_b731.3_b	_	NOUN	S	_	8	nmod	_	_
+10	oggi qui228.3_c	_	ADV	B	_	11	advmod	_	_
+11	desiderare piacere preferire volere288.1	_	VERB	V	_	7	advcl	_	_
+12	me_STS	_	PRON	P	_	11	iobj	_	_
+13	forse313.3	_	ADV	B	_	14	advmod	_	_
+14	straniero749.1	_	NOUN	S	_	15	nmod	_	_
+15	venire_STS	_	VERB	V	_	8	advcl	_	_
+16	ospite invito invitare ricevimento benvenuto137.2	_	NOUN	S	_	14	nmod	_	SpacesAfter=\s\s
+17	bello517.3	_	ADJ	A	_	14	amod	_	_
+18	ricco_STS	_	ADJ	A	_	14	amod	_	_
+19	vedere361.1	_	VERB	V	_	21	advcl	_	_
+20	innamorato innamorarsi565.2	_	VERB	V	_	21	advcl	_	_
+21	me_STS	_	PRON	P	RS=>	12	iobj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 158
+# source_text = Venivano gli ospiti e mi toccava di faticare per loro, ed essi non mi guardavano neppure.
+# text_tr_it =
+# text_gloss =
+1	uomo_STS	_	NOUN	S	RS=<	3	nsubj	_	_
+2	straniero749.1	_	ADJ	A	_	1	amod	_	_
+3	venire_STS	_	VERB	V	_	0	root	_	_
+4	ospite invito invitare ricevimento benvenuto137.2	_	NOUN	S	_	1	nmod	_	_
+5	lavorare lavoro630.1	_	VERB	V	_	3	advcl	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	1	nsubj	_	_
+7	vedere361.1	_	VERB	V	_	3	advcl	_	_
+8	mai401.2	_	ADV	B	RS=>	7	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 159
+# source_text = Quando ero molto giovane pensavo a lui come al figlio del re.
+# text_tr_it =
+# text_gloss =
+1	molto-tempo-fa100.3	_	ADV	B	RS=<	3	advmod	_	_
+2	giovane594.2_b	_	ADJ	A	_	3	amod	_	_
+3	pensare188.1	_	VERB	V	_	0	root	_	_
+4	uomo_STS	_	NOUN	S	_	3	obj	_	_
+5	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	4	det	_	_
+6	uguale245.2	_	ADP	E	_	7	case	_	_
+7	figlio398.1	_	NOUN	S	_	8	ccomp	_	_
+8	re regina337.1	_	NOUN	S	_	7	nmod	_	_
+9	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	4	nsubj	_	_
+
+ 
+# sent_id = 160
+# source_text = Piccolo e roseo, con una gran barba nera incolta.
+# text_tr_it =
+# text_gloss =
+
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	0	root	_	_
+2	basso130.1	_	ADJ	A	_	1	amod	_	_
+3	viso181.2	_	NOUN	S	_	1	obj	_	_
+4	rosa273.2	_	ADJ	A	_	3	amod	_	_
+5	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	1	nsubj	_	_
+6	barba761.2	_	NOUN	S	_	3	con	_	_
+7	nero358.1	_	ADJ	A	_	6	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 161
+# source_text = Pauledda cuciva nel suo cortile all'ombra del pergolato.
+# text_tr_it =
+# text_gloss =
+
+1	casa_b589.2_b	_	NOUN	S	_	2	obj	_	_
+2	fuori136.2	_	ADV	B	_	6	advmod	_	_
+3	cortile_STS	_	NOUN	N	_	2	nmod	_	_
+4	tetto casa(b)133.2_b	_	NOUN	S	_	2	nmod	_	_
+5	PAULEDDA	_	PROPN	SP	SignType=@b	6	nsubj	_	_
+6	cucire570.1	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 162
+# source_text = La donna si alzava di tanto in tanto per andare a bere una tazza di caffè nella piccola cucina tiepida e ordinata, poi tornava a cucire aspettando qualche visita.
+# text_tr_it =
+# text_gloss =
+
+1	donna femmina_B163.2	_	NOUN	S	_	2	nsubj	_	_
+2	alzarsi369.2_c	_	VERB	V	_	0	root	_	_
+3	andare142.2	_	VERB	V	_	2	advcl	_	_
+4	caffè561.3_a	_	NOUN	S	_	4	obj	_	_
+5	cucina cuocere775.1	_	NOUN	S	_	3	nmod	_	_
+6	piccolo(3)_STS	_	ADJ	A	_	5	amod	_	_
+7	pulire pulito114.1	_	ADJ	A	_	5	amod	_	_
+8	caldo764.1	_	ADJ	A	_	5	amod	_	_
+9	caffè561.3_a	_	NOUN	S	_	4	obj	_	_
+10	dopo240.1_b	_	ADV	B	_	3	mark	_	_
+11	tetto casa(b)133.2_b	_	NOUN	N	_	12	nmod	_	_
+12	aspettare227.3	_	VERB	V	_	1	conj	_	_
+13	ospite invito invitare ricevimento benvenuto137.2	_	NOUN	S	_	12	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 163
+# source_text = E le visite non mancavano: erano le vecchie zie che tornavano dalla predica.
+# text_tr_it =
+# text_gloss =
+
+1	persona personaggio personale726.1	_	NOUN	S	@RDP=true	2	nsubj	_	_
+2	benvenuto invitare invito ospite ricevimento137.2	_	VERB	V	_	0	root	_	_
+3	quanto437.2	_	ADJ	A	_	1	amod	_	_
+4	zio205.2	_	NOUN	S	_	1	obj	_	_
+5	nonno vecchio411.1	_	ADJ	A	_	4	amod	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	4	nsubj	_	_
+7	pregare(qualcuno)148.2_b	_	VERB	V	_	8	advcl	_	_
+8	finire fatto308.1_b	_	AUX	V	_	7	aux	_	_
+9	rientro ritornare tornare218.1	_	VERB	V	_	6	asvcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 164
+# source_text = Un giorno presero a parlar male dei figliastri di zia Carula.
+# text_tr_it =
+# text_gloss =
+
+1	un-giorno226.1	_	ADV	B	_	3	advmod	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	3	nsubj	_	_
+3	cominciare incominciare iniziare526.3	_	VERB	V	_	0	root	_	_
+4	conversare_STS	_	VERB	V	_	3	advcl	_	_
+5	parlare(b)534.2	_	VERB	V	_	4	conj	_	_
+6	figlio398.1	_	NOUN	S	_	5	nmod	_	_
+7	zio205.2	_	NOUN	S	_	6	nmod	_	_
+8	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	6	det	_	_
+9	tre_STS	_	NUM	N	_	8	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 165
+# source_text = Con i capelli unti, la cintura stretta, sempre i giro, sempre in cerca di qualcosa come la volpe.
+# text_tr_it =
+# text_gloss =
+
+1	capelli_20003	_	NOUN	S	_	5	obj	_	_
+2	olio417.1	_	ADJ	a	_	1	amod	_	_
+3	cintura(b)723.3	_	NOUN	S	_	5	nmod	_	_
+4	in-giro_20012	_	VERB	V	@RDP=true	5	conj	_	_
+5	cercare_a359.1	_	VERB	V	@RDP=true	0	root	_	_
+6	uguale245.2	_	ADP	E	_	7	case	_	_
+7	volpe(a)523.1_b	_	NOUN	S	_	5	obj	_	SpacesAfter=\s\n\n
+
+ 
+# sent_id = 166
+# source_text = Di Predupaulu dicono persino che abbia l'amica in un altro paese, una donna che lo ha ospitato una volta che è stato ferito o che è caduto da cavallo.
+# text_tr_it =
+# text_gloss =
+
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+2	nome titolo173.1_c	_	VERB	V	_	0	root	_	_
+3	PREDUPAULU	_	PROPN	P	SignType=@b	2	nsubj	_	_
+4	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+5	sentire sordo(b)198.2	_	VERB	V	_	3	advcl	_	_
+6	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	7	acl.recl	_	_
+7	amico collega695.3	_	NOUN	S	-	6	obj	_	_
+8	fuori136.2	_	ADV	B	_	7	advmod	_	_
+9	donna femmina_B163.2	_	ADJ	A	_	7	amod	_	_
+10	molto-tempo-fa100.3	_	ADV	B	_	11	amod	_	_
+11	cadere370.2	_	VERB	V	_	3	advcl	_	_
+12	cavallo equino372.3	_	NOUN	S	_	11	nmod	_	_
+13	aiutare aiuto141.2	_	VERB	V	7	conj	_	_
+14	cura698.3	_	VERB	V	_	7	conj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 167
+# source_text = Quella donna non fa male a viversene tranquilla in casa sua, piuttosto che a legarsi con uomini così...
+# text_tr_it =
+# text_gloss =
+
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	2	det	_	_
+2	donna femmina_B163.2	_	NOUN	S	_	5	nsubj	_	_
+3	bene va-bene693.1	_	ADV	B	_	5	advmod	_	_
+4	tranquillo339.2	_	ADJ	A	_	2	amod	_	_
+5	vita367.3	_	VERB	V	_	0	root	_	_
+6	casa_b589.2_b	_	NOUN	S	_	5	nmod	_	_
+7	suo243.2	_	ADJ	A	_	6	amod	_	_
+8	se(b)459.1	_	SCONJ	CS	_	9	mark	_	_
+9	sposare sposarsi sposato824.1	_	VERB	V	_	2	advcl	_	_
+10	uomo_STS	_	NOUN	S	_	9	obj	_	_
+11	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	10	det	_	_
+12	così_STS	_	ADV	B	_	10	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 168
+# source_text = Pauledda pareva rimanere estranea alla discussione, ma quando le amiche se ne andarono e cadde la sera ed ella sedette di nuovo sotto il pergolato a prendersi il fresco, i ricordi l'assalirono.
+# text_tr_it =
+# text_gloss =
+1	PAULEDDA	_	PROPN	SP	SignType=@b	3	nsubj	_	_
+2	estraneo_20013	_	ADJ	A	_	1	amod	_	_
+3	conversazione(1)_STS	_	ADJ	A	_	2	nmod	_	_
+4	estraneo_20013	_	ADJ	A	_	2	amod	_	_
+5	collega compagno595.3	_	NOUN	S	_	1	obj	_	_
+6	uscire402.3	_	VERB	V	_	5	advmod	_	_
+7	me_STS	_	PRON	P	RS=<	9	nsubj	_	_
+8	sera87.1	_	NOUN	S	_	9	nmod	_	_
+9	sedersi sedia_D351.3_d	_	VERB	V	_	0	root	_	_
+10	tetto casa(b)133.2_b	_	NOUN	S	_	9	nmod	_	_
+11	fresco693.3	_	ADJ	A	_	10	amod	_	_
+12	ricordare831.1	_	VERB	V	_	9	advcl	_	_
+13	molto-tempo-fa100.3	_	ADV	B	RS=>	12	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 169
+# source_text = Non aveva mai pensato a prendersi un amante pur riservandosi tutta la sua libertà, era troppo timorosa di Dio e del mondo. 
+# text_tr_it =
+# text_gloss =
+1	pensare188.1	_	VERB	V	_	4	advcl	_	_
+2	uomo_STS	_	NOUN	S	_	1	obj	_	_
+3	amante400.1	_	ADJ	A	_	2	amod	_	_
+4	potere(v)634.2	_	VERB	V	_	0	root	_	_
+5	libero_(a)461.2	_	ADJ	A	_	4	amod	_	_
+6	si_a414.2	_	ADV	B	_	5	advmod	_	_
+7	dio_a328.2	_	NOUN	S	_	9	nmod	_	_
+8	mondo terra mappamondo_a741.3	_	NOUN	S	_	9	nmod	_	_
+9	paura638.3	_	VERB	V	_	4	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 170
+# source_text = Le stelle brillavano come acini d'oro e in lontananza i giovani innamorati cantavano agli uccelli.
+# text_tr_it =
+# text_gloss =
+1	celeste cielo385.3	_	NOUN	S	_	2	nmod	_	_
+2	stella519.1	_	NOUN	S	_	3	obj	_	_
+3	brillare_STS	_	VERB	V	_	0	root	_	_
+4	lontano400.2	_	ADV	B	_	5	amod	_	_
+5	giovane594.2_b	_	NOUN	S	_	7	obl	_	_
+6	innamorato innamorarsi 565.2	_	ADJ	A	_	5	amod	_	_
+7	cantare763.3	_	VERB	V	_	3	advcl	_	_
+8	uccello_20017	_	NOUN	S	-	7	nmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 171
+# source_text = A poco a poco il tumulto cessò e il canto ricominciò più lontano ma l'attenzione della donna fu attratta da un rumore di passi che si avvicinava sempre forte e rapido, fino a che cessò davanti al portoncino.
+# text_tr_it =
+# text_gloss =
+1	calmo lento piano302.2	_	ADV	B	_	2	advmod	_	_
+2	rumore763.1	_	NOUN	S	_	5	obj	_	_
+3	silenzio!203.3	_	ADJ	A	_	2	amod	_	_
+4	calmo lento piano302.2	_	ADV	B	_	1	advmod	_	_
+5	sentire sordo(b)198.2	_	VERB	V	_	0	root	_	_
+6	lontano400.2	_	ADV	B	_	9	advmod	_	_
+7	donna femmina_B163.2	_	NOUN	S	_	8	nsubj	_	_
+8	sentire sordo(b)198.2	_	VERB	V	_	2	conj	_	_
+9	rumore763.1	_	ADJ	A	_	5	obj	_	_
+10	piede152.3	_	NOUN	S	_	8	nmod	_	_
+11	vicino123.2	_	ADJ	A	_	9	amod	_	_
+12	forte643.1	_	ADJ	A	_	9	amod	_	_
+13	veloce490.3	_	ADJ	A	_	9	amod	_	_
+14	piede152.3	_	NOUN	S	_	10	nmod	_	_
+15	fermo142.3	_	ADJ	A	_	14	amod	_	_
+16	porta154.3	_	NOUN	N	_	15	nmod	_	_
+17	suo243.2	_	DET	D	_	7	det:poss	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 172
+# source_text = Lei credeva di sognare, si alzò confusa e domandò chi era.
+# text_tr_it =
+# text_gloss =
+1	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	2	nsubj	_	_
+2	pensare188.1	_	VERB	V	_	0	root	_	_
+3	alzarsi369.2_c	_	VERB	V	_	1	advcl	_	_
+5	confusione782.3	_	ADJ	A	_	1	amod	_	_
+6	chiedere domandare592.1	_	VERB	V	_	1	advcl	_	_
+7	chi96.2	_	PRON	PR	_	6	obj	_	_
+8	SW-Li/Là	_	ADV	B	_	7	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 173
+# source_text = "Non sono ferito ma mi inseguono, sono io che ho ferito un uomo e adesso mi inseguono."
+# text_tr_it =
+# text_gloss =
+1	ferita_a ferito112.3	_	ADJ	A	_	2	amod	_	_
+2	io212.3	_	PRON	P	_	0	root	_	_
+3	no321.2	_	ADV	BN	_	1	advmod	_	_
+4	inseguire seguire_b436.1	_	VERB	V	_	5	advcl	_	_
+5	me_STS	_	PRON	P	_	2	obj	_	_
+6	ferita_a ferito112.3	_	VERB	V	_	2	advcl	_	_
+7	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	11	obj	_	_
+8	fuori136.2	_	ADV	B	_	7	advmod	_	_
+9	uomo_STS	_	NOUN	S	_	7	nmod	_	_
+10	ora-(avv)130.3_f	_	ADV	B	_	11	advmod	_	_
+11	inseguire seguire_b436.1	_	VERB	V	_	9	advcl	_	_
+12	me_STS	_	PRON	PC	_	11	obj	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 174
+# source_text = Si udiva ancora il suo respiro ansante ma di fuori era tutto calmo e Pauledda sentiva cessare la sua sorpresa.
+# text_tr_it =
+# text_gloss =
+1	sentire sordo(b)198.2	_	VERB	V	_	0	root	_	_
+2	respirare293.1	_	VERB	V	_	1	advcl	_	_
+3	fuori136.2	_	ADV	B	_	2	advmod	_	_
+4	calma156.3	_	ADJ	a	_	5	amod	_	_
+5	PAULEDDA	_	PROPN	SP	SignType=@b	1	nsubj	_	_
+6	tranquillo339.2	_	ADJ	A	_	5	amod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 175
+# source_text = Raccontava una storia un po' confusa, di un nemico che lo perseguitava, che gli aveva rubato il cavallo, che gli aveva ucciso le pecore.
+# text_tr_it =
+# text_gloss =
+1	raccontare_c288.2_c	_	VERB	V	_	0	root	_	_
+2	storia629.2_b	-	NOUN	S	_	1	obj	_	_
+3	molto-tempo-fa100.3	_	ADV	B	_	2	advmod	_	_
+4	confusione782.3	_	ADJ	A	_	2	amod	_	_
+5	nemico_STS	_	NOUN	S	_	1	nmod	_	_
+6	perseguitare_20018	-	VERB	V	_	5	advcl	_	_
+7	cavallo equino372.3	_	NOUN	S	_	8	obj	_	_
+8	rubare ladro_A547.1_b	-	VERB	V	_	5	advcl	_	_
+9	uccidere415.3	_	VERB	V	_	5	advcl	_	_
+10	pecora_STS	_	NOUN	S	_	9	nmod	_	_
+11	uccidere415.3	-	VERB	V	_	9	advcl	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 176
+# source_text = Fu in seguito che Predupaulu, senza dir nulla a nessuno, andò a trovarla di giorno e poi anche di notte e finì con lo sposarla
+# text_tr_it =
+# text_gloss =
+1	dopo240.1_b	_	ADV	B	_	4	advmod	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+3	PREDUPAULU	_	PROPN	SP	SignType=@bb	0	root	_	_
+4	dire202.2	_	VERB	V	_	3	advcl	_	_
+5	qualcosa_STS	_	PRON	PI	_	4	obj	_	_
+6	silenzio!203.3	_	ADJ	A	_	5	amod	_	_
+7	andare142.2	_	VERB	V	@RDP=true	3	advcl	_	_
+8	giorno(TO)747.1	_	NOUN	S	_	7	nmod	_	_
+9	andare142.2	_	VERB	V	@RDP=true	7	advcl	_	_
+10	vedere361.1	_	VERB	V	_	3	advcl	_	_
+11	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	3	det	_	_
+12	sera87.1	_	NOUN	S	_	10	nmod	_	_
+13	andare142.2	_	VERB	V	@RDP=true	7	advcl	_	_
+14	fine416.2_a	_	VERB	V	_	3	conj	_	_
+15	sposare sposarsi sposato824.1	_	VERB	V	_	3	advcl	_	_
+16	donna femmina_B163.2	_	NOUN	S	_	15	obj	_	_
+17	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	16	det	_	SpaceAfter=No
+
+ 
+# sent_id = 177
+# source_text = Se però le vecchie zie di Pauledda si decidevano a parlare male di qualcuno era un disastro.
+# text_tr_it =
+# text_gloss =
+1	se(b)459.1	-	SCONJ	CS	_	2	mark	_	_
+2	persona personaggio personale726.1	_	NOUN	S	_	3	nsubj	_	_
+3	desiderare piacere preferire volere288.1	_	VERB	V	_	7	advcl	_	_
+4	male193.1	_	ADV	B	_	3	advmod	_	_
+5	egli esso lei loro lui(non-presenti) lui quello231.1	_	PRON	P	_	7	obj	_	_
+6	mai401.2	_	ADV	B	_	7	advmod	_	_
+7	parlare(b)534.2	_	VERB	V	_	0	root	_	_
+8	mai401.2	_	ADV	B	_	6	advmod	_	SpacesAfter=\n\n
+
+# sent_id = 178
+# source_text = "Ohi! son morto! per l’amor di Dio, aprimi...."
+# text_tr_it =
+# text_gloss =
+1	io212.3	_	PRON	P	RS=3a<	2	nsubj	_	_
+2	morto175.2	_	ADJ	A	_	0	root	_	_
+3	favore-per90.1	_	ADV	B	_	4	advmod	_	_
+4	aperto aprire153.2	_	VERB	V	RS=>3b	2	advcl	_	SpacesAfter=\s\n\n
+
+
+# sent_id = 179
+# source_text = "Merziòro"
+# text_tr_it =
+# text_gloss =
+3	MERZIORO	_	PROPN	S	SignType=@b	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 180
+# source_text = "Il pericolo è cessato. Si vede che quelli che m’inseguivano han preso un’altra via."
+# text_tr_it =
+# text_gloss =
+1	pericoloso236.2	_	NOUN	S	_	2	nsubj	_	_
+2	non c'è più non più 492.1	_	VERB	V	_	6	advcl	_	_
+3	forse313.3	_	ADV	B	_	4	advmod	_	_
+4	uomo_STS	_	NOUN	S	_	5	acl:recl	_	_
+5	inseguire seguire_b436.1	_	VERB	V	_	6	advcl	_	_
+6	andare via (b) filarsela squagliarsela512.2	_	VERB	V	RS=>3a	0	root	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 181
+# source_text = S’udiva un altro passo, agile, rapido, lieve come quello di un uomo scalzo.
+# text_tr_it =
+# text_gloss =
+
+1	sentire sordo(b)198.2	_	VERB	V	_	0	root	_	_
+2	fuori136.2	_	ADV	B	_	3	admod	_	_
+3	piede152.3	_	NOUN	S	_	1	nsubj	_	_
+4	esempio182.3	_	ADV	A	_	6	case	_	_
+5	uomo_STS	_	NOUN	S	_	6	nmod	_	_
+6	piede152.3	_	NOUN	S	_	1	obl	_	_
+7	scarpe portiere750.1	_	NOUN	N	_	5	nomi	_	_
+8	non-c'è niente no 270.1	_	ADV	B	_	7	advmod	_	SpacesAfter=\n\n
+
+ 
+# sent_id = 182
+# source_text = Si fermò davanti al portoncino.
+# text_tr_it =
+# text_gloss =
+1	piede152.3	_	NOUN	S	_	3	nsubj	_	_
+2	porta154.3	_	NOUN	S	_	3	nmod	_	_
+3	fermo142.3	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+
+
+# sent_id = 183
+# source_text = Chi era?
+# text_tr_it =
+# text_gloss =
+1	chi206.1	_	PRON	P	_	0	root	_	SpacesAfter=\n\n
+
+
+# sent_id = 184
+# source_text = Susurrò l’uomo.
+# text_tr_it =
+# text_gloss =
+1	uomo_STS	_	NOUN	S	_	3	nsubj	_	_
+2	egli esso lei loro lui(non-presenti) lui quello231.1	_	DET	D	_	1	det	_	_
+3	dire202.2	_	VERB	V	_	0	root	_	SpacesAfter=\n\n
+
+
